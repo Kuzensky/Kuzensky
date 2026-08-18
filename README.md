@@ -8,8 +8,8 @@
 
 <!-- ============ TAGLINE + WHOAMI ============ -->
 <p align="center">
-  <a href="#"><img src="https://raw.githubusercontent.com/Kuzensky/Kuzensky/main/assets/tagline-frame-vertical.svg" alt="boot sequence vertical" width="210" /></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/Kuzensky/Kuzensky/output/whoami.svg" alt="whoami" width="490" /></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/Kuzensky/Kuzensky/main/assets/tagline-frame-vertical.svg" alt="boot sequence vertical" width="240" /></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/Kuzensky/Kuzensky/output/whoami.svg" alt="whoami" width="560" /></a>
 </p>
 
 ---
