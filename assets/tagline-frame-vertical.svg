@@ -14,39 +14,39 @@
     <text x="24" y="76" fill="#3fb950">kuzensky@github</text>
     <text x="24" y="96" fill="#8b949e">:~$ npm install christian</text>
 
-    <text x="24" y="144" fill="#58a6ff" opacity="0">booting christian.exe...
+    <text x="24" y="136" fill="#58a6ff" opacity="0">booting christian.exe...
       <animate attributeName="opacity" values="0;1;1" keyTimes="0;0.0857;1" calcMode="discrete" dur="14s" repeatCount="indefinite"/>
     </text>
 
-    <text x="24" y="192" fill="#58a6ff" opacity="0">loading kabi.apk @ pocket devs...
+    <text x="24" y="172" fill="#58a6ff" opacity="0">loading kabi.apk @ pocket devs...
       <animate attributeName="opacity" values="0;1;1" keyTimes="0;0.1714;1" calcMode="discrete" dur="14s" repeatCount="indefinite"/>
     </text>
 
-    <text x="24" y="240" fill="#58a6ff" opacity="0">spinning up theoraux studio...
+    <text x="24" y="208" fill="#58a6ff" opacity="0">spinning up theoraux studio...
       <animate attributeName="opacity" values="0;1;1" keyTimes="0;0.2571;1" calcMode="discrete" dur="14s" repeatCount="indefinite"/>
     </text>
 
-    <text x="24" y="288" fill="#58a6ff" opacity="0">compiling ideas since batstate-u...
+    <text x="24" y="244" fill="#58a6ff" opacity="0">compiling ideas since batstate-u...
       <animate attributeName="opacity" values="0;1;1" keyTimes="0;0.3429;1" calcMode="discrete" dur="14s" repeatCount="indefinite"/>
     </text>
 
-    <text x="24" y="336" fill="#f0f6fc" opacity="0">&gt; mood: shipping fast, breaking things
+    <text x="24" y="280" fill="#f0f6fc" opacity="0">&gt; mood: shipping fast, breaking things
       <animate attributeName="opacity" values="0;1;1" keyTimes="0;0.4286;1" calcMode="discrete" dur="14s" repeatCount="indefinite"/>
     </text>
 
-    <text x="24" y="384" fill="#f0f6fc" opacity="0">&gt; caffeine_level: critical
+    <text x="24" y="316" fill="#f0f6fc" opacity="0">&gt; caffeine_level: critical
       <animate attributeName="opacity" values="0;1;1" keyTimes="0;0.5143;1" calcMode="discrete" dur="14s" repeatCount="indefinite"/>
     </text>
 
-    <text x="24" y="432" fill="#f0f6fc" opacity="0">&gt; stack: ts, react, python, flask
+    <text x="24" y="352" fill="#f0f6fc" opacity="0">&gt; stack: ts, react, python, flask
       <animate attributeName="opacity" values="0;1;1" keyTimes="0;0.6;1" calcMode="discrete" dur="14s" repeatCount="indefinite"/>
     </text>
 
-    <text x="24" y="480" fill="#f0f6fc" opacity="0">&gt; uptime: since batstate-u
+    <text x="24" y="388" fill="#f0f6fc" opacity="0">&gt; uptime: since batstate-u
       <animate attributeName="opacity" values="0;1;1" keyTimes="0;0.6857;1" calcMode="discrete" dur="14s" repeatCount="indefinite"/>
     </text>
 
-    <text x="24" y="528" fill="#f0f6fc" opacity="0">&gt; status: probably debugging_
+    <text x="24" y="424" fill="#f0f6fc" opacity="0">&gt; status: probably debugging_
       <animate attributeName="opacity" values="0;1;1" keyTimes="0;0.7714;1" calcMode="discrete" dur="14s" repeatCount="indefinite"/>
     </text>
   </g>
