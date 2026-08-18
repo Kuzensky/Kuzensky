@@ -93,8 +93,11 @@ def fetch_contributions(token: str) -> int:
 
 
 def fetch_views() -> str:
-    resp = requests.get(VIEWS_BADGE_URL, timeout=30)
-    resp.raise_for_status()
+    try:
+        resp = requests.get(VIEWS_BADGE_URL, timeout=10)
+        resp.raise_for_status()
+    except requests.exceptions.RequestException:
+        return "n/a"
     counts = re.findall(r">([\d,]+)<", resp.text)
     return counts[-1] if counts else "n/a"
 
