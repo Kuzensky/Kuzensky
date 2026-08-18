@@ -4,4 +4,4 @@
     <img src="https://www.gitskins.com/api/section/wordmark?username=Kuzensky&theme=github-dark" alt="Kuzensky 3d wordmark section" />
   </picture>
 </p>
-<img src="[https://github.com/Kuzensky/Kuzensky/space-shooter.gif](https://github.com/Kuzensky/Kuzensky/blob/main/space-shooter.gif)" width="600" />
+<img src="https://raw.githubusercontent.com/Kuzensky/Kuzensky/output/space-shooter.gif" width="600" />
