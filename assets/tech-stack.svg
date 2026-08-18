@@ -1,11 +1,11 @@
-<svg width="700" height="570" viewBox="0 0 700 570" xmlns="http://www.w3.org/2000/svg">
+<svg width="700" height="390" viewBox="0 0 700 390" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <clipPath id="techContentClip">
-      <rect x="1" y="41" width="698" height="529" rx="0"/>
+      <rect x="1" y="41" width="698" height="349" rx="0"/>
     </clipPath>
   </defs>
 
-  <rect x="0" y="0" width="700" height="570" rx="14" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+  <rect x="0" y="0" width="700" height="390" rx="14" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
 
   <path d="M0,14 a14,14 0 0 1 14,-14 h672 a14,14 0 0 1 14,14 v15 h-700 z" fill="#161b22"/>
 
@@ -13,90 +13,73 @@
   <circle cx="44" cy="15" r="6" fill="#febc2e"/>
   <circle cx="64" cy="15" r="6" fill="#28c840"/>
 
-  <text x="350" y="18" text-anchor="middle" font-family="Fira Code, Menlo, monospace" font-size="12.5" fill="#8b949e">kuzensky@github: ~$ psql stack_db</text>
+  <text x="350" y="18" text-anchor="middle" font-family="Fira Code, Menlo, monospace" font-size="11" fill="#8b949e">kuzensky@github: ~$ psql stack_db</text>
 
-  <rect x="1" y="41" width="698" height="529" fill="#0d1117"/>
+  <rect x="1" y="41" width="698" height="349" fill="#0d1117"/>
 
   <g clip-path="url(#techContentClip)">
-    <text x="30" y="90" font-family="Fira Code, Menlo, monospace" font-size="14" fill="#56d4dd">stack_db=#</text>
-    <text x="128" y="90" font-family="Fira Code, Menlo, monospace" font-size="14" fill="#f0f6fc">SELECT languages, frontend, backend, database, devops FROM stack;</text>
+    <text x="30" y="90" font-family="Fira Code, Menlo, monospace" font-size="11" fill="#56d4dd">stack_db=#</text>
+    <text x="128" y="90" font-family="Fira Code, Menlo, monospace" font-size="11" fill="#f0f6fc">SELECT languages, frontend, backend, database, devops FROM stack;</text>
 
     <!-- header -->
-    <text x="30" y="138" font-family="Fira Code, Menlo, monospace" font-size="13.5" fill="#8b949e">languages</text>
-    <text x="140" y="138" font-family="Fira Code, Menlo, monospace" font-size="13.5" fill="#484f58">|</text>
-    <text x="155" y="138" font-family="Fira Code, Menlo, monospace" font-size="13.5" fill="#8b949e">frontend</text>
-    <text x="290" y="138" font-family="Fira Code, Menlo, monospace" font-size="13.5" fill="#484f58">|</text>
-    <text x="305" y="138" font-family="Fira Code, Menlo, monospace" font-size="13.5" fill="#8b949e">backend</text>
-    <text x="380" y="138" font-family="Fira Code, Menlo, monospace" font-size="13.5" fill="#484f58">|</text>
-    <text x="395" y="138" font-family="Fira Code, Menlo, monospace" font-size="13.5" fill="#8b949e">database</text>
-    <text x="510" y="138" font-family="Fira Code, Menlo, monospace" font-size="13.5" fill="#484f58">|</text>
-    <text x="525" y="138" font-family="Fira Code, Menlo, monospace" font-size="13.5" fill="#8b949e">devops</text>
+    <text x="30" y="138" font-family="Fira Code, Menlo, monospace" font-size="11" fill="#8b949e">languages</text>
+    <text x="140" y="138" font-family="Fira Code, Menlo, monospace" font-size="11" fill="#484f58">|</text>
+    <text x="155" y="138" font-family="Fira Code, Menlo, monospace" font-size="11" fill="#8b949e">frontend</text>
+    <text x="290" y="138" font-family="Fira Code, Menlo, monospace" font-size="11" fill="#484f58">|</text>
+    <text x="305" y="138" font-family="Fira Code, Menlo, monospace" font-size="11" fill="#8b949e">backend</text>
+    <text x="380" y="138" font-family="Fira Code, Menlo, monospace" font-size="11" fill="#484f58">|</text>
+    <text x="395" y="138" font-family="Fira Code, Menlo, monospace" font-size="11" fill="#8b949e">database</text>
+    <text x="510" y="138" font-family="Fira Code, Menlo, monospace" font-size="11" fill="#484f58">|</text>
+    <text x="525" y="138" font-family="Fira Code, Menlo, monospace" font-size="11" fill="#8b949e">devops</text>
 
     <line x1="30" y1="148" x2="670" y2="148" stroke="#30363d" stroke-width="1"/>
 
     <!-- row 1 -->
-    <text x="30" y="179" font-family="Fira Code, Menlo, monospace" font-size="13.5" fill="#5eead4">JavaScript</text>
-    <text x="155" y="179" font-family="Fira Code, Menlo, monospace" font-size="13.5" fill="#56d4dd">React</text>
-    <text x="305" y="179" font-family="Fira Code, Menlo, monospace" font-size="13.5" fill="#5b8ef7">Python</text>
-    <text x="395" y="179" font-family="Fira Code, Menlo, monospace" font-size="13.5" fill="#a684f2">MySQL</text>
-    <text x="525" y="179" font-family="Fira Code, Menlo, monospace" font-size="13.5" fill="#3fb950">Cloudinary</text>
+    <text x="30" y="179" font-family="Fira Code, Menlo, monospace" font-size="11" fill="#5eead4">JavaScript</text>
+    <text x="155" y="179" font-family="Fira Code, Menlo, monospace" font-size="11" fill="#56d4dd">React</text>
+    <text x="305" y="179" font-family="Fira Code, Menlo, monospace" font-size="11" fill="#5b8ef7">Python</text>
+    <text x="395" y="179" font-family="Fira Code, Menlo, monospace" font-size="11" fill="#a684f2">MySQL</text>
+    <text x="525" y="179" font-family="Fira Code, Menlo, monospace" font-size="11" fill="#3fb950">Cloudinary</text>
 
     <!-- row 2 -->
-    <text x="30" y="203" font-family="Fira Code, Menlo, monospace" font-size="13.5" fill="#5eead4">TypeScript</text>
-    <text x="155" y="203" font-family="Fira Code, Menlo, monospace" font-size="13.5" fill="#56d4dd">Next.js</text>
-    <text x="305" y="203" font-family="Fira Code, Menlo, monospace" font-size="13.5" fill="#5b8ef7">Flask</text>
-    <text x="395" y="203" font-family="Fira Code, Menlo, monospace" font-size="13.5" fill="#a684f2">PostgreSQL</text>
-    <text x="525" y="203" font-family="Fira Code, Menlo, monospace" font-size="13.5" fill="#3fb950">Inngest</text>
+    <text x="30" y="203" font-family="Fira Code, Menlo, monospace" font-size="11" fill="#5eead4">TypeScript</text>
+    <text x="155" y="203" font-family="Fira Code, Menlo, monospace" font-size="11" fill="#56d4dd">Next.js</text>
+    <text x="305" y="203" font-family="Fira Code, Menlo, monospace" font-size="11" fill="#5b8ef7">Flask</text>
+    <text x="395" y="203" font-family="Fira Code, Menlo, monospace" font-size="11" fill="#a684f2">PostgreSQL</text>
+    <text x="525" y="203" font-family="Fira Code, Menlo, monospace" font-size="11" fill="#3fb950">Inngest</text>
 
     <!-- row 3 -->
-    <text x="30" y="227" font-family="Fira Code, Menlo, monospace" font-size="13.5" fill="#5eead4">Python</text>
-    <text x="155" y="227" font-family="Fira Code, Menlo, monospace" font-size="13.5" fill="#56d4dd">React Native</text>
-    <text x="305" y="227" font-family="Fira Code, Menlo, monospace" font-size="13.5" fill="#5b8ef7">Laravel</text>
-    <text x="395" y="227" font-family="Fira Code, Menlo, monospace" font-size="13.5" fill="#a684f2">MongoDB</text>
-    <text x="525" y="227" font-family="Fira Code, Menlo, monospace" font-size="13.5" fill="#3fb950">Git</text>
+    <text x="30" y="227" font-family="Fira Code, Menlo, monospace" font-size="11" fill="#5eead4">Python</text>
+    <text x="155" y="227" font-family="Fira Code, Menlo, monospace" font-size="11" fill="#56d4dd">React Native</text>
+    <text x="305" y="227" font-family="Fira Code, Menlo, monospace" font-size="11" fill="#5b8ef7">Laravel</text>
+    <text x="395" y="227" font-family="Fira Code, Menlo, monospace" font-size="11" fill="#a684f2">MongoDB</text>
+    <text x="525" y="227" font-family="Fira Code, Menlo, monospace" font-size="11" fill="#3fb950">Git</text>
 
     <!-- row 4 -->
-    <text x="30" y="251" font-family="Fira Code, Menlo, monospace" font-size="13.5" fill="#5eead4">Java</text>
-    <text x="155" y="251" font-family="Fira Code, Menlo, monospace" font-size="13.5" fill="#56d4dd">Flutter</text>
-    <text x="305" y="251" font-family="Fira Code, Menlo, monospace" font-size="13.5" fill="#5b8ef7">Kotlin</text>
-    <text x="395" y="251" font-family="Fira Code, Menlo, monospace" font-size="13.5" fill="#a684f2">Firestore</text>
-    <text x="525" y="251" font-family="Fira Code, Menlo, monospace" font-size="13.5" fill="#3fb950">GitHub Actions</text>
+    <text x="30" y="251" font-family="Fira Code, Menlo, monospace" font-size="11" fill="#5eead4">Java</text>
+    <text x="155" y="251" font-family="Fira Code, Menlo, monospace" font-size="11" fill="#56d4dd">Flutter</text>
+    <text x="305" y="251" font-family="Fira Code, Menlo, monospace" font-size="11" fill="#5b8ef7">Kotlin</text>
+    <text x="395" y="251" font-family="Fira Code, Menlo, monospace" font-size="11" fill="#a684f2">Firestore</text>
+    <text x="525" y="251" font-family="Fira Code, Menlo, monospace" font-size="11" fill="#3fb950">GitHub Actions</text>
 
     <!-- row 5 -->
-    <text x="30" y="275" font-family="Fira Code, Menlo, monospace" font-size="13.5" fill="#5eead4">C++</text>
-    <text x="155" y="275" font-family="Fira Code, Menlo, monospace" font-size="13.5" fill="#56d4dd">Laravel Blade</text>
-    <text x="305" y="275" font-family="Fira Code, Menlo, monospace" font-size="13.5" fill="#5b8ef7">PHP</text>
-    <text x="395" y="275" font-family="Fira Code, Menlo, monospace" font-size="13.5" fill="#a684f2">Firebase</text>
-    <text x="525" y="275" font-family="Fira Code, Menlo, monospace" font-size="13.5" fill="#3fb950">VS Code</text>
+    <text x="30" y="275" font-family="Fira Code, Menlo, monospace" font-size="11" fill="#5eead4">C++</text>
+    <text x="155" y="275" font-family="Fira Code, Menlo, monospace" font-size="11" fill="#56d4dd">Laravel Blade</text>
+    <text x="305" y="275" font-family="Fira Code, Menlo, monospace" font-size="11" fill="#5b8ef7">PHP</text>
+    <text x="395" y="275" font-family="Fira Code, Menlo, monospace" font-size="11" fill="#a684f2">Firebase</text>
+    <text x="525" y="275" font-family="Fira Code, Menlo, monospace" font-size="11" fill="#3fb950">VS Code</text>
 
     <!-- row 6 -->
-    <text x="30" y="299" font-family="Fira Code, Menlo, monospace" font-size="13.5" fill="#5eead4">Dart</text>
-    <text x="155" y="299" font-family="Fira Code, Menlo, monospace" font-size="13.5" fill="#56d4dd">HTML</text>
-    <text x="395" y="299" font-family="Fira Code, Menlo, monospace" font-size="13.5" fill="#a684f2">Supabase</text>
-    <text x="525" y="299" font-family="Fira Code, Menlo, monospace" font-size="13.5" fill="#3fb950">Android Studio</text>
+    <text x="30" y="299" font-family="Fira Code, Menlo, monospace" font-size="11" fill="#5eead4">Dart</text>
+    <text x="155" y="299" font-family="Fira Code, Menlo, monospace" font-size="11" fill="#56d4dd">HTML</text>
+    <text x="395" y="299" font-family="Fira Code, Menlo, monospace" font-size="11" fill="#a684f2">Supabase</text>
+    <text x="525" y="299" font-family="Fira Code, Menlo, monospace" font-size="11" fill="#3fb950">Android Studio</text>
 
     <!-- row 7 -->
-    <text x="30" y="323" font-family="Fira Code, Menlo, monospace" font-size="13.5" fill="#5eead4">PHP</text>
-    <text x="155" y="323" font-family="Fira Code, Menlo, monospace" font-size="13.5" fill="#56d4dd">CSS</text>
-    <text x="395" y="323" font-family="Fira Code, Menlo, monospace" font-size="13.5" fill="#a684f2">SQLite</text>
+    <text x="30" y="323" font-family="Fira Code, Menlo, monospace" font-size="11" fill="#5eead4">PHP</text>
+    <text x="155" y="323" font-family="Fira Code, Menlo, monospace" font-size="11" fill="#56d4dd">CSS</text>
+    <text x="395" y="323" font-family="Fira Code, Menlo, monospace" font-size="11" fill="#a684f2">SQLite</text>
 
-    <text x="30" y="358" font-family="Fira Code, Menlo, monospace" font-size="13" fill="#6e7681">(7 rows)</text>
-
-    <line x1="30" y1="384" x2="670" y2="384" stroke="#30363d" stroke-width="1"/>
-
-    <text x="30" y="412" font-family="Fira Code, Menlo, monospace" font-size="14" fill="#3fb950">kuzensky@github</text>
-    <text x="176" y="412" font-family="Fira Code, Menlo, monospace" font-size="14" fill="#8b949e">:~$ ./links.sh</text>
-
-    <text x="30" y="450" font-family="Fira Code, Menlo, monospace" font-size="14" font-weight="700" fill="#2ea043">GitHub</text>
-    <text x="180" y="450" font-family="Fira Code, Menlo, monospace" font-size="14" fill="#8b949e">github.com/Kuzensky</text>
-
-    <text x="30" y="480" font-family="Fira Code, Menlo, monospace" font-size="14" font-weight="700" fill="#1f6feb">LinkedIn</text>
-    <text x="180" y="480" font-family="Fira Code, Menlo, monospace" font-size="14" fill="#8b949e">linkedin.com/in/christian-nayre</text>
-
-    <text x="30" y="510" font-family="Fira Code, Menlo, monospace" font-size="14" font-weight="700" fill="#00c7d9">Portfolio</text>
-    <text x="180" y="510" font-family="Fira Code, Menlo, monospace" font-size="14" fill="#8b949e">christian-nayre.vercel.app</text>
-
-    <text x="30" y="540" font-family="Fira Code, Menlo, monospace" font-size="14" font-weight="700" fill="#ff4d4f">Email</text>
-    <text x="180" y="540" font-family="Fira Code, Menlo, monospace" font-size="14" fill="#8b949e">cbnayre04@gmail.com</text>
+    <text x="30" y="358" font-family="Fira Code, Menlo, monospace" font-size="11" fill="#6e7681">(7 rows)</text>
   </g>
 </svg>

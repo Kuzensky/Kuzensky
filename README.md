@@ -12,9 +12,18 @@
   <a href="#"><img src="https://raw.githubusercontent.com/Kuzensky/Kuzensky/output/whoami.svg" alt="whoami" width="581" /></a>
 </p>
 
-<!-- ============ TECH STACK + CONNECT ============ -->
+<!-- ============ TECH STACK ============ -->
 <p align="center">
-  <img src="assets/tech-stack.svg" alt="tech stack and links" width="1000" />
+  <img src="assets/tech-stack.svg" alt="tech stack" width="1000" />
+</p>
+
+<!-- ============ CONNECT ============ -->
+<p align="center">
+  <a href="#"><img src="assets/connect-header.svg" alt="connect" width="1000" /></a><br />
+  <a href="https://github.com/Kuzensky"><img src="assets/connect-github.svg" width="1000" /></a><br />
+  <a href="https://www.linkedin.com/in/christian-nayre/"><img src="assets/connect-linkedin.svg" width="1000" /></a><br />
+  <a href="https://christian-nayre.vercel.app/"><img src="assets/connect-portfolio.svg" width="1000" /></a><br />
+  <a href="mailto:cbnayre04@gmail.com"><img src="assets/connect-email.svg" width="1000" /></a>
 </p>
 
 <!-- ============ GITHUB ACTIVITY ============ -->
