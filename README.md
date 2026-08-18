@@ -12,10 +12,3 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Kuzensky/Kuzensky/output/space-shooter.gif" width="1000" />
 </p>
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=asamassekou10&theme=aurora&mode=light" />
-    <img src="https://www.gitskins.com/api/section/hero?username=asamassekou10&theme=aurora&mode=dark" width="100%" alt="Animated profile hero for Alhassane Samassekou" />
-  </picture>
-</p>
-
