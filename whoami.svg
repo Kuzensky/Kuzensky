@@ -56,19 +56,19 @@
     <text x="340" y="180" font-family="Fira Code, Menlo, monospace" font-size="13" fill="#f0f6fc">Full-Stack Dev (mostly caffeine)</text>
 
     <text x="230" y="210" font-family="Fira Code, Menlo, monospace" font-size="13" font-weight="700" fill="#5eead4">Stars</text>
-    <text x="340" y="210" font-family="Fira Code, Menlo, monospace" font-size="13" fill="#f0f6fc">0</text>
+    <text x="340" y="210" font-family="Fira Code, Menlo, monospace" font-size="13" fill="#f0f6fc">10</text>
 
     <text x="230" y="240" font-family="Fira Code, Menlo, monospace" font-size="13" font-weight="700" fill="#5eead4">Repos</text>
     <text x="340" y="240" font-family="Fira Code, Menlo, monospace" font-size="13" fill="#f0f6fc">5</text>
 
     <text x="230" y="270" font-family="Fira Code, Menlo, monospace" font-size="13" font-weight="700" fill="#5eead4">Followers</text>
-    <text x="340" y="270" font-family="Fira Code, Menlo, monospace" font-size="13" fill="#f0f6fc">1</text>
+    <text x="340" y="270" font-family="Fira Code, Menlo, monospace" font-size="13" fill="#f0f6fc">2</text>
 
     <text x="230" y="300" font-family="Fira Code, Menlo, monospace" font-size="13" font-weight="700" fill="#5eead4">Top Lang</text>
     <text x="340" y="300" font-family="Fira Code, Menlo, monospace" font-size="13" fill="#f0f6fc">Blade</text>
 
     <text x="230" y="330" font-family="Fira Code, Menlo, monospace" font-size="13" font-weight="700" fill="#5eead4">Activity</text>
-    <text x="340" y="330" font-family="Fira Code, Menlo, monospace" font-size="13" fill="#f0f6fc">359 contributions</text>
+    <text x="340" y="330" font-family="Fira Code, Menlo, monospace" font-size="13" fill="#f0f6fc">365 contributions</text>
 
     <!-- swatches -->
     <rect x="230" y="375" width="24" height="24" rx="4" fill="#5eead4"/>
