@@ -15,7 +15,7 @@
 
 <!-- ============ WHOAMI ============ -->
 <p align="center">
-  <a href="#"><img src="https://raw.githubusercontent.com/Kuzensky/Kuzensky/output/whoami.svg" alt="whoami" width="700" /></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/Kuzensky/Kuzensky/output/whoami.svg" alt="whoami" width="1000" /></a>
 </p>
 
 ---
@@ -29,14 +29,14 @@
 
 <!-- ============ CONNECT ============ -->
 <p align="center">
-  <img src="assets/connect-header.svg" alt="connect" width="700" />
+  <img src="assets/connect-header.svg" alt="connect" width="1000" />
 </p>
 <p align="center">
-  <a href="https://github.com/Kuzensky"><img src="assets/connect-github.svg" height="54" /></a>
-  <a href="https://www.linkedin.com/in/christian-nayre/"><img src="assets/connect-linkedin.svg" height="54" /></a>
+  <a href="https://github.com/Kuzensky"><img src="assets/connect-github.svg" height="77" /></a>
+  <a href="https://www.linkedin.com/in/christian-nayre/"><img src="assets/connect-linkedin.svg" height="77" /></a>
   <br />
-  <a href="https://ian-portfolio-one-murex.vercel.app/"><img src="assets/connect-portfolio.svg" height="54" /></a>
-  <a href="mailto:cbnayre04@gmail.com"><img src="assets/connect-email.svg" height="54" /></a>
+  <a href="https://ian-portfolio-one-murex.vercel.app/"><img src="assets/connect-portfolio.svg" height="77" /></a>
+  <a href="mailto:cbnayre04@gmail.com"><img src="assets/connect-email.svg" height="77" /></a>
 </p>
 
 ---

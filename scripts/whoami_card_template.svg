@@ -1,12 +1,12 @@
-<svg width="700" height="460" viewBox="0 0 700 460" xmlns="http://www.w3.org/2000/svg">
+<svg width="700" height="490" viewBox="0 0 700 490" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <clipPath id="contentClip">
-      <rect x="1" y="49" width="698" height="410" rx="0"/>
+      <rect x="1" y="49" width="698" height="440" rx="0"/>
     </clipPath>
   </defs>
 
   <!-- Browser body -->
-  <rect x="0" y="0" width="700" height="460" rx="14" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+  <rect x="0" y="0" width="700" height="490" rx="14" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
 
   <!-- Top chrome bar -->
   <path d="M0,14 a14,14 0 0 1 14,-14 h672 a14,14 0 0 1 14,14 v34 h-700 z" fill="#161b22"/>
@@ -32,7 +32,7 @@
   <path d="M580,17 l3,3 h-6 z" fill="#8b949e"/>
 
   <!-- Content area -->
-  <rect x="1" y="49" width="698" height="410" fill="#0d1117"/>
+  <rect x="1" y="49" width="698" height="440" fill="#0d1117"/>
 
   <g clip-path="url(#contentClip)">
     <!-- ASCII box logo -->
@@ -70,12 +70,15 @@
     <text x="230" y="330" font-family="Fira Code, Menlo, monospace" font-size="13" font-weight="700" fill="${ACCENT}">Activity</text>
     <text x="340" y="330" font-family="Fira Code, Menlo, monospace" font-size="13" fill="#f0f6fc">${ACTIVITY}</text>
 
+    <text x="230" y="360" font-family="Fira Code, Menlo, monospace" font-size="13" font-weight="700" fill="${ACCENT}">Views</text>
+    <text x="340" y="360" font-family="Fira Code, Menlo, monospace" font-size="13" fill="#f0f6fc">${VIEWS}</text>
+
     <!-- swatches -->
-    <rect x="230" y="375" width="24" height="24" rx="4" fill="${ACCENT}"/>
-    <rect x="264" y="375" width="24" height="24" rx="4" fill="#56d4dd"/>
-    <rect x="298" y="375" width="24" height="24" rx="4" fill="#5b8ef7"/>
-    <rect x="332" y="375" width="24" height="24" rx="4" fill="#a684f2"/>
-    <rect x="366" y="375" width="24" height="24" rx="4" fill="#ee7bb3"/>
-    <rect x="400" y="375" width="24" height="24" rx="4" fill="#3fb950"/>
+    <rect x="230" y="405" width="24" height="24" rx="4" fill="${ACCENT}"/>
+    <rect x="264" y="405" width="24" height="24" rx="4" fill="#56d4dd"/>
+    <rect x="298" y="405" width="24" height="24" rx="4" fill="#5b8ef7"/>
+    <rect x="332" y="405" width="24" height="24" rx="4" fill="#a684f2"/>
+    <rect x="366" y="405" width="24" height="24" rx="4" fill="#ee7bb3"/>
+    <rect x="400" y="405" width="24" height="24" rx="4" fill="#3fb950"/>
   </g>
 </svg>

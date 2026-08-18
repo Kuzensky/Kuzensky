@@ -2,6 +2,7 @@
 """Fetch live GitHub stats for Kuzensky and render the neofetch-style whoami card."""
 
 import os
+import re
 import sys
 from pathlib import Path
 from string import Template
@@ -11,6 +12,7 @@ import requests
 USERNAME = "Kuzensky"
 API = "https://api.github.com"
 GRAPHQL_API = "https://api.github.com/graphql"
+VIEWS_BADGE_URL = f"https://komarev.com/ghpvc/?username={USERNAME}"
 
 ROLE = "Full-Stack Dev (mostly caffeine)"
 
@@ -90,6 +92,13 @@ def fetch_contributions(token: str) -> int:
     return data["data"]["user"]["contributionsCollection"]["contributionCalendar"]["totalContributions"]
 
 
+def fetch_views() -> str:
+    resp = requests.get(VIEWS_BADGE_URL, timeout=30)
+    resp.raise_for_status()
+    counts = re.findall(r">([\d,]+)<", resp.text)
+    return counts[-1] if counts else "n/a"
+
+
 def render(template: Template, accent: str, stats: dict) -> str:
     return template.substitute(
         ACCENT=accent,
@@ -100,6 +109,7 @@ def render(template: Template, accent: str, stats: dict) -> str:
         FOLLOWERS=stats["followers"],
         TOP_LANG=stats["top_lang"],
         ACTIVITY=stats["activity"],
+        VIEWS=stats["views"],
     )
 
 
@@ -116,6 +126,7 @@ def main() -> None:
     repos = fetch_repos(token)
     stars, top_lang = fetch_stars_and_top_lang(token, repos)
     activity = fetch_contributions(token)
+    views = fetch_views()
 
     stats = {
         "name": "Christian Nayre",
@@ -125,6 +136,7 @@ def main() -> None:
         "followers": profile.get("followers", 0),
         "top_lang": top_lang,
         "activity": f"{activity} contributions",
+        "views": views,
     }
 
     template = Template(TEMPLATE_PATH.read_text())
