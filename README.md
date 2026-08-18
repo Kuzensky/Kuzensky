@@ -8,7 +8,7 @@
 
 <!-- ============ TAGLINE ============ -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=booting+christian.exe...;loading+kabi.apk+%40+pocket+devs...;spinning+up+theoraux+studio...;compiling+ideas+since+batstate-u...;%3E+status%3A+probably+debugging_" alt="Typing SVG" />
+  <img src="assets/tagline-frame.svg" alt="boot sequence" width="1000" />
 </p>
 
 ---

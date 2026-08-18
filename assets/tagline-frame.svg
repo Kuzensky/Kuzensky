@@ -1,0 +1,44 @@
+<svg width="700" height="230" viewBox="0 0 700 230" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0" y="0" width="700" height="230" rx="14" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+
+  <!-- Top chrome bar -->
+  <path d="M0,14 a14,14 0 0 1 14,-14 h672 a14,14 0 0 1 14,14 v22 h-700 z" fill="#161b22"/>
+
+  <!-- Traffic lights -->
+  <circle cx="24" cy="18" r="6" fill="#ff5f57"/>
+  <circle cx="44" cy="18" r="6" fill="#febc2e"/>
+  <circle cx="64" cy="18" r="6" fill="#28c840"/>
+
+  <!-- Title -->
+  <text x="350" y="22" text-anchor="middle" font-family="Fira Code, Menlo, monospace" font-size="13" fill="#8b949e">kuzensky@github: ~$ ./boot.sh</text>
+
+  <!-- Content area -->
+  <rect x="1" y="37" width="698" height="192" fill="#0d1117"/>
+
+  <g font-family="Fira Code, Menlo, monospace" font-size="15">
+    <text x="30" y="70" opacity="0">
+      <tspan fill="#3fb950">kuzensky@github</tspan><tspan fill="#8b949e">:~$ npm install christian</tspan>
+      <animate attributeName="opacity" values="0;1;1" keyTimes="0;0;1" calcMode="discrete" dur="9s" repeatCount="indefinite"/>
+    </text>
+
+    <text x="30" y="98" fill="#58a6ff" opacity="0">booting christian.exe...
+      <animate attributeName="opacity" values="0;1;1" keyTimes="0;0.1333;1" calcMode="discrete" dur="9s" repeatCount="indefinite"/>
+    </text>
+
+    <text x="30" y="126" fill="#58a6ff" opacity="0">loading kabi.apk @ pocket devs...
+      <animate attributeName="opacity" values="0;1;1" keyTimes="0;0.2667;1" calcMode="discrete" dur="9s" repeatCount="indefinite"/>
+    </text>
+
+    <text x="30" y="154" fill="#58a6ff" opacity="0">spinning up theoraux studio...
+      <animate attributeName="opacity" values="0;1;1" keyTimes="0;0.4;1" calcMode="discrete" dur="9s" repeatCount="indefinite"/>
+    </text>
+
+    <text x="30" y="182" fill="#58a6ff" opacity="0">compiling ideas since batstate-u...
+      <animate attributeName="opacity" values="0;1;1" keyTimes="0;0.5333;1" calcMode="discrete" dur="9s" repeatCount="indefinite"/>
+    </text>
+
+    <text x="30" y="210" fill="#f0f6fc" opacity="0">&gt; status: probably debugging_
+      <animate attributeName="opacity" values="0;1;1" keyTimes="0;0.6667;1" calcMode="discrete" dur="9s" repeatCount="indefinite"/>
+    </text>
+  </g>
+</svg>
