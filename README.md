@@ -9,11 +9,11 @@
 <!-- ============ TAGLINE + WHOAMI ============ -->
 <table align="center" width="100%">
   <tr>
-    <td width="50%" align="center" valign="top">
-      <img src="assets/tagline-frame.svg" alt="boot sequence" width="88%" height="320" />
+    <td width="35%" align="center" valign="top">
+      <img src="assets/tagline-frame-vertical.svg" alt="boot sequence vertical" width="100%" height="360" />
     </td>
-    <td width="50%" align="center" valign="top">
-      <a href="#"><img src="https://raw.githubusercontent.com/Kuzensky/Kuzensky/output/whoami.svg" alt="whoami" width="100%" height="260" /></a>
+    <td width="65%" align="center" valign="top">
+      <a href="#"><img src="https://raw.githubusercontent.com/Kuzensky/Kuzensky/output/whoami.svg" alt="whoami" width="100%" height="360" /></a>
     </td>
   </tr>
 </table>
