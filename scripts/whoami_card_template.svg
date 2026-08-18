@@ -17,7 +17,7 @@
   <circle cx="64" cy="15" r="6" fill="#28c840"/>
 
   <!-- Title -->
-  <text x="350" y="18" text-anchor="middle" font-family="Fira Code, Menlo, monospace" font-size="10" fill="#8b949e">kuzensky@github: ~$$ neofetch</text>
+  <text x="350" y="18" text-anchor="middle" font-family="Fira Code, Menlo, monospace" font-size="10" fill="#8b949e">kuzensky@github:~$$ neofetch</text>
 
   <!-- Content area -->
   <rect x="1" y="41" width="698" height="427" fill="#0d1117"/>
