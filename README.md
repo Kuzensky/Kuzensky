@@ -13,30 +13,23 @@
 
 ---
 
-<!-- ============ HEATMAP ============ -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Kuzensky/Kuzensky/output/space-shooter.gif" width="1000" />
-</p>
-
----
-
 <!-- ============ WHOAMI ============ -->
 <p align="center">
-  <img src="assets/browser-frame-whoami.svg" alt="whoami" width="700" />
+  <img src="https://raw.githubusercontent.com/Kuzensky/Kuzensky/output/whoami.svg" alt="whoami" width="700" />
+</p>
+<p align="center">
+  <details>
+    <summary>🎨 switch text color</summary>
+    <br />
+    <img src="https://raw.githubusercontent.com/Kuzensky/Kuzensky/output/whoami-alt.svg" alt="whoami alt colorway" width="700" />
+  </details>
 </p>
 
 ---
 
 <!-- ============ TECH STACK ============ -->
 <p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6" />
-  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Native-000000?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=02569B" />
-  <img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=FFCA28" />
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="assets/tech-stack.svg" alt="tech stack" width="700" />
 </p>
 
 ---
@@ -49,11 +42,23 @@
 
 ---
 
-<!-- ============ FOOTER ============ -->
+<!-- ============ CONNECT ============ -->
 <p align="center">
-  <a href="https://ian-portfolio-one-murex.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/christiannayre"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
-  <a href="mailto:cbnayre04@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
+  <img src="assets/connect-header.svg" alt="connect" width="700" />
+</p>
+<p align="center">
+  <a href="https://github.com/Kuzensky"><img src="assets/connect-github.svg" height="54" /></a>
+  <a href="https://www.linkedin.com/in/christian-nayre/"><img src="assets/connect-linkedin.svg" height="54" /></a>
+  <br />
+  <a href="https://ian-portfolio-one-murex.vercel.app/"><img src="assets/connect-portfolio.svg" height="54" /></a>
+  <a href="mailto:cbnayre04@gmail.com"><img src="assets/connect-email.svg" height="54" /></a>
+</p>
+
+---
+
+<!-- ============ GITHUB ACTIVITY ============ -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Kuzensky/Kuzensky/output/space-shooter.gif" width="1000" />
 </p>
 
 <p align="center">

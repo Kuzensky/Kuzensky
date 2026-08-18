@@ -1,0 +1,54 @@
+<svg width="700" height="380" viewBox="0 0 700 380" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="techContentClip">
+      <rect x="1" y="49" width="698" height="330" rx="0"/>
+    </clipPath>
+  </defs>
+
+  <!-- Card body -->
+  <rect x="0" y="0" width="700" height="380" rx="14" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+
+  <!-- Top chrome bar -->
+  <path d="M0,14 a14,14 0 0 1 14,-14 h672 a14,14 0 0 1 14,14 v34 h-700 z" fill="#161b22"/>
+
+  <!-- Traffic lights -->
+  <circle cx="24" cy="24" r="6" fill="#ff5f57"/>
+  <circle cx="44" cy="24" r="6" fill="#febc2e"/>
+  <circle cx="64" cy="24" r="6" fill="#28c840"/>
+
+  <!-- Title -->
+  <text x="350" y="28" text-anchor="middle" font-family="Menlo, monospace" font-size="13" fill="#8b949e">kuzensky@github: ~$ ls stack/</text>
+
+  <!-- Content area -->
+  <rect x="1" y="49" width="698" height="330" fill="#0d1117"/>
+
+  <g clip-path="url(#techContentClip)">
+    <text x="30" y="95" font-family="Menlo, monospace" font-size="14" fill="#3fb950">kuzensky@github</text>
+    <text x="176" y="95" font-family="Menlo, monospace" font-size="14" fill="#8b949e">:~$ ls stack/</text>
+
+    <!-- Frontend -->
+    <text x="30" y="132" font-family="Menlo, monospace" font-size="13" fill="#6e7681"># frontend</text>
+    <rect x="30" y="142" width="130" height="30" rx="15" fill="none" stroke="#5eead4" stroke-width="1.3"/>
+    <text x="95" y="162" text-anchor="middle" font-family="Menlo, monospace" font-size="13" fill="#5eead4">TypeScript</text>
+    <rect x="174" y="142" width="90" height="30" rx="15" fill="none" stroke="#5eead4" stroke-width="1.3"/>
+    <text x="219" y="162" text-anchor="middle" font-family="Menlo, monospace" font-size="13" fill="#5eead4">React</text>
+    <rect x="278" y="142" width="100" height="30" rx="15" fill="none" stroke="#5eead4" stroke-width="1.3"/>
+    <text x="328" y="162" text-anchor="middle" font-family="Menlo, monospace" font-size="13" fill="#5eead4">Next.js</text>
+    <rect x="392" y="142" width="150" height="30" rx="15" fill="none" stroke="#5eead4" stroke-width="1.3"/>
+    <text x="467" y="162" text-anchor="middle" font-family="Menlo, monospace" font-size="13" fill="#5eead4">React Native</text>
+    <rect x="556" y="142" width="100" height="30" rx="15" fill="none" stroke="#5eead4" stroke-width="1.3"/>
+    <text x="606" y="162" text-anchor="middle" font-family="Menlo, monospace" font-size="13" fill="#5eead4">Flutter</text>
+
+    <!-- Backend -->
+    <text x="30" y="205" font-family="Menlo, monospace" font-size="13" fill="#6e7681"># backend</text>
+    <rect x="30" y="215" width="90" height="30" rx="15" fill="none" stroke="#5b8ef7" stroke-width="1.3"/>
+    <text x="75" y="235" text-anchor="middle" font-family="Menlo, monospace" font-size="13" fill="#5b8ef7">Python</text>
+    <rect x="134" y="215" width="80" height="30" rx="15" fill="none" stroke="#5b8ef7" stroke-width="1.3"/>
+    <text x="174" y="235" text-anchor="middle" font-family="Menlo, monospace" font-size="13" fill="#5b8ef7">Flask</text>
+
+    <!-- Databases -->
+    <text x="30" y="278" font-family="Menlo, monospace" font-size="13" fill="#6e7681"># databases</text>
+    <rect x="30" y="288" width="110" height="30" rx="15" fill="none" stroke="#f0ab4c" stroke-width="1.3"/>
+    <text x="85" y="308" text-anchor="middle" font-family="Menlo, monospace" font-size="13" fill="#f0ab4c">Firebase</text>
+  </g>
+</svg>
