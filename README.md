@@ -1,13 +1,13 @@
-<!-- <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/portrait?username=Kuzensky&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/portrait?username=Kuzensky&theme=github-dark" alt="Kuzensky ascii portrait section" />
-  </picture>
-</p> -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/wordmark?username=Kuzensky&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/wordmark?username=Kuzensky&theme=github-dark" alt="Kuzensky 3d wordmark section" />
-  </picture>
-</p>
-<!-- Sections: Connect, Header, Heatmap -->
+# Kuzensky
+
+> Memorable developer positioning.
+
+**Theme:** GitHub · **Style:** Creative · **Agent:** Full-Stack Engineer
+
+## Header
+Hi, I'm **Kuzensky**. This README is tuned for **personal brand** with a GitHub visual system.
+## Heatmap
+> Editing this section in the inspector.
+Animated year-long contribution calendar.
+
+<!-- Sections: Header, Heatmap -->
