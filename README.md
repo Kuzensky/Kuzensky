@@ -1,16 +1,12 @@
-## Hi there 👋
-
-<!--
-**Kuzensky/Kuzensky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center">Hey, I'm Christian 👋</h1> <p align="center">Aspiring Full-Stack Developer · CS Student · Batangas, PH</p> <p align="center"> I build websites for fun, then turn those ideas into practical digital experiences that solve real-world problems. </p> <p align="center"> <a href="https://ian-portfolio-one-murex.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a> <a href="https://www.linkedin.com/in/christiannayre"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:cbnayre04@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> </p>
+What I'm working on
+🏋️ Kabi — full-stack dev & designer on the #1 fitness tracking app in the Philippines (#3 in Saudi Arabia), building workout tracking, on-device food scanning, and native health integrations.
+💸 Tarsi — built the marketing landing page for the top-ranked finance app in the Philippines, optimized for speed and conversion.
+🍽️ FoodBuddy — an interest-based social dining app with real-time sessions and identity verification.
+🌪️ Alerto — an AI-assisted disaster decision-support platform, built with Team Vibe Coders for the ExCSellence hackathon.
+🧪 Running Theoraux, my own small software/design studio, building client tools and internal projects.
+Tech I work with
+<p> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" /> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" /> </p>
+GitHub stats
+<p> <img height="165" src="https://github-readme-stats.vercel.app/api?username=Kuzensky&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kuzensky&layout=compact&theme=tokyonight&hide_border=true" /> </p>
+<p align="center"><i>Currently open to internships and collaborations — let's build something useful.</i></p>
