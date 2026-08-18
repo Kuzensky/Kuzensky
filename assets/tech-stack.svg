@@ -1,12 +1,12 @@
-<svg width="700" height="420" viewBox="0 0 700 420" xmlns="http://www.w3.org/2000/svg">
+<svg width="700" height="340" viewBox="0 0 700 340" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <clipPath id="techContentClip">
-      <rect x="1" y="49" width="698" height="370" rx="0"/>
+      <rect x="1" y="49" width="698" height="291" rx="0"/>
     </clipPath>
   </defs>
 
   <!-- Card body -->
-  <rect x="0" y="0" width="700" height="420" rx="14" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+  <rect x="0" y="0" width="700" height="340" rx="14" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
 
   <!-- Top chrome bar -->
   <path d="M0,14 a14,14 0 0 1 14,-14 h672 a14,14 0 0 1 14,14 v34 h-700 z" fill="#161b22"/>
@@ -20,30 +20,44 @@
   <text x="350" y="28" text-anchor="middle" font-family="Fira Code, Menlo, monospace" font-size="13" fill="#8b949e">kuzensky@github: ~$ psql stack_db</text>
 
   <!-- Content area -->
-  <rect x="1" y="49" width="698" height="370" fill="#0d1117"/>
+  <rect x="1" y="49" width="698" height="291" fill="#0d1117"/>
 
   <g clip-path="url(#techContentClip)">
     <text x="30" y="90" font-family="Fira Code, Menlo, monospace" font-size="14" fill="#56d4dd">stack_db=#</text>
-    <text x="128" y="90" font-family="Fira Code, Menlo, monospace" font-size="14" fill="#f0f6fc">SELECT category, tech FROM stack;</text>
+    <text x="128" y="90" font-family="Fira Code, Menlo, monospace" font-size="14" fill="#f0f6fc">SELECT frontend, backend, database FROM stack;</text>
 
     <!-- table header -->
-    <text x="30" y="138" xml:space="preserve" font-family="Fira Code, Menlo, monospace" font-size="13.5" fill="#8b949e"> category    | tech</text>
-    <text x="30" y="153" xml:space="preserve" font-family="Fira Code, Menlo, monospace" font-size="13.5" fill="#484f58">-------------+----------------</text>
+    <text x="30" y="138" xml:space="preserve" font-family="Fira Code, Menlo, monospace" font-size="13.5" fill="#8b949e"> frontend      | backend    | database</text>
+    <text x="30" y="153" xml:space="preserve" font-family="Fira Code, Menlo, monospace" font-size="13.5" fill="#484f58">---------------+-------------+------------</text>
 
-    <!-- frontend rows -->
-    <text x="30" y="179" xml:space="preserve" font-family="Fira Code, Menlo, monospace" font-size="13.5" fill="#5eead4"> frontend    | TypeScript</text>
-    <text x="30" y="203" xml:space="preserve" font-family="Fira Code, Menlo, monospace" font-size="13.5" fill="#5eead4"> frontend    | React</text>
-    <text x="30" y="227" xml:space="preserve" font-family="Fira Code, Menlo, monospace" font-size="13.5" fill="#5eead4"> frontend    | Next.js</text>
-    <text x="30" y="251" xml:space="preserve" font-family="Fira Code, Menlo, monospace" font-size="13.5" fill="#5eead4"> frontend    | React Native</text>
-    <text x="30" y="275" xml:space="preserve" font-family="Fira Code, Menlo, monospace" font-size="13.5" fill="#5eead4"> frontend    | Flutter</text>
+    <!-- row 1 -->
+    <text x="38" y="179" font-family="Fira Code, Menlo, monospace" font-size="13.5" fill="#5eead4">TypeScript</text>
+    <text x="151" y="179" font-family="Fira Code, Menlo, monospace" font-size="13.5" fill="#484f58">|</text>
+    <text x="168" y="179" font-family="Fira Code, Menlo, monospace" font-size="13.5" fill="#5b8ef7">Python</text>
+    <text x="257" y="179" font-family="Fira Code, Menlo, monospace" font-size="13.5" fill="#484f58">|</text>
+    <text x="273" y="179" font-family="Fira Code, Menlo, monospace" font-size="13.5" fill="#f0ab4c">Firebase</text>
 
-    <!-- backend rows -->
-    <text x="30" y="299" xml:space="preserve" font-family="Fira Code, Menlo, monospace" font-size="13.5" fill="#5b8ef7"> backend     | Python</text>
-    <text x="30" y="323" xml:space="preserve" font-family="Fira Code, Menlo, monospace" font-size="13.5" fill="#5b8ef7"> backend     | Flask</text>
+    <!-- row 2 -->
+    <text x="38" y="203" font-family="Fira Code, Menlo, monospace" font-size="13.5" fill="#5eead4">React</text>
+    <text x="151" y="203" font-family="Fira Code, Menlo, monospace" font-size="13.5" fill="#484f58">|</text>
+    <text x="168" y="203" font-family="Fira Code, Menlo, monospace" font-size="13.5" fill="#5b8ef7">Flask</text>
+    <text x="257" y="203" font-family="Fira Code, Menlo, monospace" font-size="13.5" fill="#484f58">|</text>
 
-    <!-- database row -->
-    <text x="30" y="347" xml:space="preserve" font-family="Fira Code, Menlo, monospace" font-size="13.5" fill="#f0ab4c"> database    | Firebase</text>
+    <!-- row 3 -->
+    <text x="38" y="227" font-family="Fira Code, Menlo, monospace" font-size="13.5" fill="#5eead4">Next.js</text>
+    <text x="151" y="227" font-family="Fira Code, Menlo, monospace" font-size="13.5" fill="#484f58">|</text>
+    <text x="257" y="227" font-family="Fira Code, Menlo, monospace" font-size="13.5" fill="#484f58">|</text>
 
-    <text x="30" y="381" font-family="Fira Code, Menlo, monospace" font-size="13" fill="#6e7681">(8 rows)</text>
+    <!-- row 4 -->
+    <text x="38" y="251" font-family="Fira Code, Menlo, monospace" font-size="13.5" fill="#5eead4">React Native</text>
+    <text x="151" y="251" font-family="Fira Code, Menlo, monospace" font-size="13.5" fill="#484f58">|</text>
+    <text x="257" y="251" font-family="Fira Code, Menlo, monospace" font-size="13.5" fill="#484f58">|</text>
+
+    <!-- row 5 -->
+    <text x="38" y="275" font-family="Fira Code, Menlo, monospace" font-size="13.5" fill="#5eead4">Flutter</text>
+    <text x="151" y="275" font-family="Fira Code, Menlo, monospace" font-size="13.5" fill="#484f58">|</text>
+    <text x="257" y="275" font-family="Fira Code, Menlo, monospace" font-size="13.5" fill="#484f58">|</text>
+
+    <text x="30" y="305" font-family="Fira Code, Menlo, monospace" font-size="13" fill="#6e7681">(5 rows)</text>
   </g>
 </svg>

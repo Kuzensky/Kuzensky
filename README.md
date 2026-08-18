@@ -22,7 +22,7 @@
 
 <!-- ============ TECH STACK ============ -->
 <p align="center">
-  <img src="assets/tech-stack.svg" alt="tech stack" width="700" />
+  <img src="assets/tech-stack.svg" alt="tech stack" width="1000" />
 </p>
 
 ---
