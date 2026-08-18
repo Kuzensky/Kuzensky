@@ -10,9 +10,9 @@
   <circle cx="64" cy="24" r="6" fill="#28c840"/>
 
   <!-- Title -->
-  <text x="350" y="28" text-anchor="middle" font-family="Menlo, monospace" font-size="13" fill="#8b949e">kuzensky@github: ~$ ./links.sh</text>
+  <text x="350" y="28" text-anchor="middle" font-family="Fira Code, Menlo, monospace" font-size="13" fill="#8b949e">kuzensky@github: ~$ ./links.sh</text>
 
   <!-- Prompt -->
-  <text x="30" y="87" font-family="Menlo, monospace" font-size="14" fill="#3fb950">kuzensky@github</text>
-  <text x="176" y="87" font-family="Menlo, monospace" font-size="14" fill="#8b949e">:~$ ./links.sh</text>
+  <text x="30" y="87" font-family="Fira Code, Menlo, monospace" font-size="14" fill="#3fb950">kuzensky@github</text>
+  <text x="176" y="87" font-family="Fira Code, Menlo, monospace" font-size="14" fill="#8b949e">:~$ ./links.sh</text>
 </svg>
