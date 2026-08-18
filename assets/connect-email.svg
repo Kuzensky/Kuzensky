@@ -1,6 +1,9 @@
 <svg width="700" height="50" viewBox="0 0 700 50" xmlns="http://www.w3.org/2000/svg">
   <path d="M0,0 h700 v36 a14,14 0 0 1 -14,14 h-672 a14,14 0 0 1 -14,-14 z" fill="#0d1117"/>
   <path d="M0.75,0 v36 a13.25,13.25 0 0 0 13.25,13.25 h672 a13.25,13.25 0 0 0 13.25,-13.25 v-36" fill="none" stroke="#30363d" stroke-width="1.5"/>
-  <text x="30" y="32" font-family="Fira Code, Menlo, monospace" font-size="14" font-weight="700" fill="#ea4335">Email</text>
-  <text x="180" y="32" font-family="Fira Code, Menlo, monospace" font-size="14" fill="#8b949e">cbnayre04@gmail.com</text>
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;1;1" keyTimes="0;0.6;1" calcMode="discrete" dur="6s" repeatCount="indefinite"/>
+    <text x="30" y="32" font-family="Fira Code, Menlo, monospace" font-size="14" font-weight="700" fill="#ea4335">Email</text>
+    <text x="180" y="32" font-family="Fira Code, Menlo, monospace" font-size="14" fill="#8b949e">cbnayre04@gmail.com</text>
+  </g>
 </svg>
