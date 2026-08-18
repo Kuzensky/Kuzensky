@@ -15,11 +15,13 @@
 
 <!-- ============ WHOAMI ============ -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Kuzensky/Kuzensky/output/whoami.svg" alt="whoami" width="700" />
-</p>
-<p align="center">
-  <details>
-    <summary>🎨 switch text color</summary>
+  <details name="whoami-color" open>
+    <summary>🎨 teal</summary>
+    <br />
+    <img src="https://raw.githubusercontent.com/Kuzensky/Kuzensky/output/whoami.svg" alt="whoami" width="700" />
+  </details>
+  <details name="whoami-color">
+    <summary>🎨 amber</summary>
     <br />
     <img src="https://raw.githubusercontent.com/Kuzensky/Kuzensky/output/whoami-alt.svg" alt="whoami alt colorway" width="700" />
   </details>
