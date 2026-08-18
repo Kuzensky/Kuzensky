@@ -10,10 +10,10 @@
 <table align="center" width="100%">
   <tr>
     <td width="30%" align="center" valign="top">
-      <img src="https://raw.githubusercontent.com/Kuzensky/Kuzensky/main/assets/tagline-frame-vertical.svg" alt="boot sequence vertical" width="100%" height="420" />
+      <img src="https://raw.githubusercontent.com/Kuzensky/Kuzensky/main/assets/tagline-frame-vertical.svg" alt="boot sequence vertical" width="100%" />
     </td>
     <td width="70%" align="center" valign="top">
-      <a href="#"><img src="https://raw.githubusercontent.com/Kuzensky/Kuzensky/output/whoami.svg" alt="whoami" width="100%" height="420" /></a>
+      <a href="#"><img src="https://raw.githubusercontent.com/Kuzensky/Kuzensky/output/whoami.svg" alt="whoami" width="100%" /></a>
     </td>
   </tr>
 </table>
