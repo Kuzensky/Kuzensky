@@ -12,14 +12,9 @@
   <a href="#"><img src="https://raw.githubusercontent.com/Kuzensky/Kuzensky/output/whoami.svg" alt="whoami" width="581" /></a>
 </p>
 
-<!-- ============ TECH STACK ============ -->
+<!-- ============ TECH STACK + CONNECT ============ -->
 <p align="center">
-  <img src="assets/tech-stack.svg" alt="tech stack" width="1000" />
-</p>
-
-<!-- ============ CONNECT ============ -->
-<p align="center">
-  <img src="assets/connect-terminal.svg" alt="terminal links" width="1200" />
+  <img src="assets/tech-stack.svg" alt="tech stack and links" width="1000" />
 </p>
 
 <!-- ============ GITHUB ACTIVITY ============ -->

@@ -1,11 +1,11 @@
-<svg width="700" height="390" viewBox="0 0 700 390" xmlns="http://www.w3.org/2000/svg">
+<svg width="700" height="570" viewBox="0 0 700 570" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <clipPath id="techContentClip">
-      <rect x="1" y="41" width="698" height="349" rx="0"/>
+      <rect x="1" y="41" width="698" height="529" rx="0"/>
     </clipPath>
   </defs>
 
-  <rect x="0" y="0" width="700" height="390" rx="14" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+  <rect x="0" y="0" width="700" height="570" rx="14" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
 
   <path d="M0,14 a14,14 0 0 1 14,-14 h672 a14,14 0 0 1 14,14 v15 h-700 z" fill="#161b22"/>
 
@@ -15,7 +15,7 @@
 
   <text x="350" y="18" text-anchor="middle" font-family="Fira Code, Menlo, monospace" font-size="12.5" fill="#8b949e">kuzensky@github: ~$ psql stack_db</text>
 
-  <rect x="1" y="41" width="698" height="349" fill="#0d1117"/>
+  <rect x="1" y="41" width="698" height="529" fill="#0d1117"/>
 
   <g clip-path="url(#techContentClip)">
     <text x="30" y="90" font-family="Fira Code, Menlo, monospace" font-size="14" fill="#56d4dd">stack_db=#</text>
@@ -81,5 +81,22 @@
     <text x="395" y="323" font-family="Fira Code, Menlo, monospace" font-size="13.5" fill="#a684f2">SQLite</text>
 
     <text x="30" y="358" font-family="Fira Code, Menlo, monospace" font-size="13" fill="#6e7681">(7 rows)</text>
+
+    <line x1="30" y1="384" x2="670" y2="384" stroke="#30363d" stroke-width="1"/>
+
+    <text x="30" y="412" font-family="Fira Code, Menlo, monospace" font-size="14" fill="#3fb950">kuzensky@github</text>
+    <text x="176" y="412" font-family="Fira Code, Menlo, monospace" font-size="14" fill="#8b949e">:~$ ./links.sh</text>
+
+    <text x="30" y="450" font-family="Fira Code, Menlo, monospace" font-size="14" font-weight="700" fill="#2ea043">GitHub</text>
+    <text x="180" y="450" font-family="Fira Code, Menlo, monospace" font-size="14" fill="#8b949e">github.com/Kuzensky</text>
+
+    <text x="30" y="480" font-family="Fira Code, Menlo, monospace" font-size="14" font-weight="700" fill="#1f6feb">LinkedIn</text>
+    <text x="180" y="480" font-family="Fira Code, Menlo, monospace" font-size="14" fill="#8b949e">linkedin.com/in/christian-nayre</text>
+
+    <text x="30" y="510" font-family="Fira Code, Menlo, monospace" font-size="14" font-weight="700" fill="#00c7d9">Portfolio</text>
+    <text x="180" y="510" font-family="Fira Code, Menlo, monospace" font-size="14" fill="#8b949e">christian-nayre.vercel.app</text>
+
+    <text x="30" y="540" font-family="Fira Code, Menlo, monospace" font-size="14" font-weight="700" fill="#ff4d4f">Email</text>
+    <text x="180" y="540" font-family="Fira Code, Menlo, monospace" font-size="14" fill="#8b949e">cbnayre04@gmail.com</text>
   </g>
 </svg>
