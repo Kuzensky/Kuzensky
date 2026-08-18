@@ -29,14 +29,11 @@
 
 <!-- ============ CONNECT ============ -->
 <p align="center">
-  <img src="assets/connect-header.svg" alt="connect" width="1000" />
-</p>
-<p align="center">
-  <a href="https://github.com/Kuzensky"><img src="assets/connect-github.svg" height="77" /></a>
-  <a href="https://www.linkedin.com/in/christian-nayre/"><img src="assets/connect-linkedin.svg" height="77" /></a>
-  <br />
-  <a href="https://ian-portfolio-one-murex.vercel.app/"><img src="assets/connect-portfolio.svg" height="77" /></a>
-  <a href="mailto:cbnayre04@gmail.com"><img src="assets/connect-email.svg" height="77" /></a>
+  <img src="assets/connect-header.svg" alt="connect" width="1000" /><br />
+  <a href="https://github.com/Kuzensky"><img src="assets/connect-github.svg" width="1000" /></a><br />
+  <a href="https://www.linkedin.com/in/christian-nayre/"><img src="assets/connect-linkedin.svg" width="1000" /></a><br />
+  <a href="https://ian-portfolio-one-murex.vercel.app/"><img src="assets/connect-portfolio.svg" width="1000" /></a><br />
+  <a href="mailto:cbnayre04@gmail.com"><img src="assets/connect-email.svg" width="1000" /></a>
 </p>
 
 ---

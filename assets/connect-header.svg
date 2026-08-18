@@ -1,5 +1,6 @@
-<svg width="700" height="88" viewBox="0 0 700 88" xmlns="http://www.w3.org/2000/svg">
-  <rect x="0" y="0" width="700" height="88" rx="14" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+<svg width="700" height="70" viewBox="0 0 700 70" xmlns="http://www.w3.org/2000/svg">
+  <path d="M0,14 a14,14 0 0 1 14,-14 h672 a14,14 0 0 1 14,14 v56 h-700 z" fill="#0d1117"/>
+  <path d="M0.75,70 v-56 a13.25,13.25 0 0 1 13.25,-13.25 h672 a13.25,13.25 0 0 1 13.25,13.25 v56" fill="none" stroke="#30363d" stroke-width="1.5"/>
 
   <!-- Top chrome bar -->
   <path d="M0,14 a14,14 0 0 1 14,-14 h672 a14,14 0 0 1 14,14 v12 h-700 z" fill="#161b22"/>
@@ -13,6 +14,6 @@
   <text x="350" y="17" text-anchor="middle" font-family="Fira Code, Menlo, monospace" font-size="13" fill="#8b949e">kuzensky@github: ~$ ./links.sh</text>
 
   <!-- Prompt -->
-  <text x="30" y="65" font-family="Fira Code, Menlo, monospace" font-size="14" fill="#3fb950">kuzensky@github</text>
-  <text x="176" y="65" font-family="Fira Code, Menlo, monospace" font-size="14" fill="#8b949e">:~$ ./links.sh</text>
+  <text x="30" y="53" font-family="Fira Code, Menlo, monospace" font-size="14" fill="#3fb950">kuzensky@github</text>
+  <text x="176" y="53" font-family="Fira Code, Menlo, monospace" font-size="14" fill="#8b949e">:~$ ./links.sh</text>
 </svg>
