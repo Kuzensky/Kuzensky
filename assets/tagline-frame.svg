@@ -6,11 +6,11 @@
   <circle cx="44" cy="13" r="6" fill="#febc2e"/>
   <circle cx="64" cy="13" r="6" fill="#28c840"/>
 
-  <text x="350" y="17" text-anchor="middle" font-family="Fira Code, Menlo, monospace" font-size="12.5" fill="#8b949e">kuzensky@github: ~$ ./boot.sh</text>
+  <text x="350" y="17" text-anchor="middle" font-family="Fira Code, Menlo, monospace" font-size="10" fill="#8b949e">kuzensky@github: ~$ ./boot.sh</text>
 
   <rect x="1" y="27" width="698" height="192" fill="#0d1117"/>
 
-  <g font-family="Fira Code, Menlo, monospace" font-size="13" fill="#c9d1d9">
+  <g font-family="Fira Code, Menlo, monospace" font-size="10" fill="#c9d1d9">
     <text x="28" y="60" fill="#3fb950">kuzensky@github</text>
     <text x="170" y="60" fill="#8b949e">:~$</text>
     <text x="206" y="60" fill="#8b949e">npm install christian</text>
