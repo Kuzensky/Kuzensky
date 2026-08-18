@@ -10,7 +10,7 @@
 <table align="center" width="100%">
   <tr>
     <td width="50%" align="center" valign="top">
-      <img src="assets/tagline-frame.svg" alt="boot sequence" width="100%" height="260" />
+      <img src="assets/tagline-frame.svg" alt="boot sequence" width="88%" height="320" />
     </td>
     <td width="50%" align="center" valign="top">
       <a href="#"><img src="https://raw.githubusercontent.com/Kuzensky/Kuzensky/output/whoami.svg" alt="whoami" width="100%" height="260" /></a>
