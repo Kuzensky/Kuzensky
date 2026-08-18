@@ -7,16 +7,10 @@
 </p>
 
 <!-- ============ TAGLINE + WHOAMI ============ -->
-<table align="center" width="100%">
-  <tr>
-    <td width="30%" align="center" valign="top">
-      <img src="https://raw.githubusercontent.com/Kuzensky/Kuzensky/main/assets/tagline-frame-vertical.svg" alt="boot sequence vertical" width="100%" />
-    </td>
-    <td width="70%" align="center" valign="top">
-      <a href="#"><img src="https://raw.githubusercontent.com/Kuzensky/Kuzensky/output/whoami.svg" alt="whoami" width="100%" /></a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="#"><img src="https://raw.githubusercontent.com/Kuzensky/Kuzensky/main/assets/tagline-frame-vertical.svg" alt="boot sequence vertical" width="278" /></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/Kuzensky/Kuzensky/output/whoami.svg" alt="whoami" width="650" /></a>
+</p>
 
 ---
 
