@@ -6,17 +6,17 @@
   </picture>
 </p>
 
-<!-- ============ TAGLINE ============ -->
-<p align="center">
-  <img src="assets/tagline-frame.svg" alt="boot sequence" width="1000" />
-</p>
-
----
-
-<!-- ============ WHOAMI ============ -->
-<p align="center">
-  <a href="#"><img src="https://raw.githubusercontent.com/Kuzensky/Kuzensky/output/whoami.svg" alt="whoami" width="1000" /></a>
-</p>
+<!-- ============ TAGLINE + WHOAMI ============ -->
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="assets/tagline-frame.svg" alt="boot sequence" width="100%" height="260" />
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="#"><img src="https://raw.githubusercontent.com/Kuzensky/Kuzensky/output/whoami.svg" alt="whoami" width="100%" height="260" /></a>
+    </td>
+  </tr>
+</table>
 
 ---
 
