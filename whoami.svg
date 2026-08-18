@@ -36,42 +36,42 @@
 
   <g clip-path="url(#contentClip)">
     <!-- ASCII box logo -->
-    <rect x="40" y="90" width="150" height="110" rx="4" fill="none" stroke="#5eead4" stroke-width="1.5"/>
-    <rect x="58" y="106" width="26" height="8" rx="2" fill="#5eead4"/>
-    <rect x="92" y="106" width="26" height="8" rx="2" fill="#5eead4"/>
-    <text x="58" y="148" font-family="Fira Code, Menlo, monospace" font-size="13" fill="#5eead4">&#183; github</text>
-    <text x="58" y="178" font-family="Fira Code, Menlo, monospace" font-size="13" fill="#5eead4">&gt; _</text>
-    <rect x="80" y="167" width="8" height="13" fill="#5eead4">
+    <rect x="40" y="90" width="150" height="110" rx="4" fill="none" stroke="#3fb950" stroke-width="1.5"/>
+    <rect x="58" y="106" width="26" height="8" rx="2" fill="#3fb950"/>
+    <rect x="92" y="106" width="26" height="8" rx="2" fill="#3fb950"/>
+    <text x="58" y="148" font-family="Fira Code, Menlo, monospace" font-size="13" fill="#3fb950">&#183; github</text>
+    <text x="58" y="178" font-family="Fira Code, Menlo, monospace" font-size="13" fill="#3fb950">&gt; _</text>
+    <rect x="80" y="167" width="8" height="13" fill="#3fb950">
       <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
     </rect>
 
     <!-- Stat block -->
-    <text x="230" y="105" font-family="Fira Code, Menlo, monospace" font-size="16" font-weight="700" fill="#5eead4">kuzensky@github</text>
+    <text x="230" y="105" font-family="Fira Code, Menlo, monospace" font-size="16" font-weight="700" fill="#3fb950">kuzensky@github</text>
     <line x1="230" y1="115" x2="660" y2="115" stroke="#21262d" stroke-width="1"/>
 
-    <text x="230" y="150" font-family="Fira Code, Menlo, monospace" font-size="13" font-weight="700" fill="#5eead4">Name</text>
+    <text x="230" y="150" font-family="Fira Code, Menlo, monospace" font-size="13" font-weight="700" fill="#3fb950">Name</text>
     <text x="340" y="150" font-family="Fira Code, Menlo, monospace" font-size="13" fill="#f0f6fc">Christian Nayre</text>
 
-    <text x="230" y="180" font-family="Fira Code, Menlo, monospace" font-size="13" font-weight="700" fill="#5eead4">Role</text>
+    <text x="230" y="180" font-family="Fira Code, Menlo, monospace" font-size="13" font-weight="700" fill="#3fb950">Role</text>
     <text x="340" y="180" font-family="Fira Code, Menlo, monospace" font-size="13" fill="#f0f6fc">Full-Stack Dev (mostly caffeine)</text>
 
-    <text x="230" y="210" font-family="Fira Code, Menlo, monospace" font-size="13" font-weight="700" fill="#5eead4">Stars</text>
+    <text x="230" y="210" font-family="Fira Code, Menlo, monospace" font-size="13" font-weight="700" fill="#3fb950">Stars</text>
     <text x="340" y="210" font-family="Fira Code, Menlo, monospace" font-size="13" fill="#f0f6fc">10</text>
 
-    <text x="230" y="240" font-family="Fira Code, Menlo, monospace" font-size="13" font-weight="700" fill="#5eead4">Repos</text>
+    <text x="230" y="240" font-family="Fira Code, Menlo, monospace" font-size="13" font-weight="700" fill="#3fb950">Repos</text>
     <text x="340" y="240" font-family="Fira Code, Menlo, monospace" font-size="13" fill="#f0f6fc">5</text>
 
-    <text x="230" y="270" font-family="Fira Code, Menlo, monospace" font-size="13" font-weight="700" fill="#5eead4">Followers</text>
+    <text x="230" y="270" font-family="Fira Code, Menlo, monospace" font-size="13" font-weight="700" fill="#3fb950">Followers</text>
     <text x="340" y="270" font-family="Fira Code, Menlo, monospace" font-size="13" fill="#f0f6fc">2</text>
 
-    <text x="230" y="300" font-family="Fira Code, Menlo, monospace" font-size="13" font-weight="700" fill="#5eead4">Top Lang</text>
+    <text x="230" y="300" font-family="Fira Code, Menlo, monospace" font-size="13" font-weight="700" fill="#3fb950">Top Lang</text>
     <text x="340" y="300" font-family="Fira Code, Menlo, monospace" font-size="13" fill="#f0f6fc">Blade</text>
 
-    <text x="230" y="330" font-family="Fira Code, Menlo, monospace" font-size="13" font-weight="700" fill="#5eead4">Activity</text>
+    <text x="230" y="330" font-family="Fira Code, Menlo, monospace" font-size="13" font-weight="700" fill="#3fb950">Activity</text>
     <text x="340" y="330" font-family="Fira Code, Menlo, monospace" font-size="13" fill="#f0f6fc">359 contributions</text>
 
     <!-- swatches -->
-    <rect x="230" y="375" width="24" height="24" rx="4" fill="#5eead4"/>
+    <rect x="230" y="375" width="24" height="24" rx="4" fill="#3fb950"/>
     <rect x="264" y="375" width="24" height="24" rx="4" fill="#56d4dd"/>
     <rect x="298" y="375" width="24" height="24" rx="4" fill="#5b8ef7"/>
     <rect x="332" y="375" width="24" height="24" rx="4" fill="#a684f2"/>
