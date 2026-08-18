@@ -84,17 +84,17 @@
       </g>
 
       <g stroke="#8b949e" stroke-width="1">
-        <line x1="30" y1="122" x2="930" y2="122" stroke-dasharray="4 6"/>
-        <line x1="30" y1="158" x2="930" y2="158" stroke-dasharray="4 6"/>
-        <line x1="30" y1="194" x2="930" y2="194" stroke-dasharray="4 6"/>
-        <line x1="30" y1="230" x2="930" y2="230" stroke-dasharray="4 6"/>
-        <line x1="30" y1="266" x2="930" y2="266" stroke-dasharray="4 6"/>
-        <line x1="30" y1="302" x2="930" y2="302" stroke-dasharray="4 6"/>
-        <line x1="30" y1="338" x2="930" y2="338" stroke-dasharray="4 6"/>
-        <line x1="30" y1="374" x2="930" y2="374" stroke-dasharray="4 6"/>
-        <line x1="30" y1="410" x2="930" y2="410" stroke-dasharray="4 6"/>
-        <line x1="30" y1="446" x2="930" y2="446" stroke-dasharray="4 6"/>
-        <line x1="30" y1="482" x2="930" y2="482" stroke-dasharray="4 6"/>
+        <line x1="30" y1="122" x2="930" y2="122"/>
+        <line x1="30" y1="158" x2="930" y2="158"/>
+        <line x1="30" y1="194" x2="930" y2="194"/>
+        <line x1="30" y1="230" x2="930" y2="230"/>
+        <line x1="30" y1="266" x2="930" y2="266"/>
+        <line x1="30" y1="302" x2="930" y2="302"/>
+        <line x1="30" y1="338" x2="930" y2="338"/>
+        <line x1="30" y1="374" x2="930" y2="374"/>
+        <line x1="30" y1="410" x2="930" y2="410"/>
+        <line x1="30" y1="446" x2="930" y2="446"/>
+        <line x1="30" y1="482" x2="930" y2="482"/>
       </g>
     </g>
   </g>
