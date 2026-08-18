@@ -1,43 +1,40 @@
 <svg width="700" height="220" viewBox="0 0 700 220" xmlns="http://www.w3.org/2000/svg">
   <rect x="0" y="0" width="700" height="220" rx="14" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
 
-  <!-- Top chrome bar -->
   <path d="M0,14 a14,14 0 0 1 14,-14 h672 a14,14 0 0 1 14,14 v12 h-700 z" fill="#161b22"/>
-
-  <!-- Traffic lights -->
   <circle cx="24" cy="13" r="6" fill="#ff5f57"/>
   <circle cx="44" cy="13" r="6" fill="#febc2e"/>
   <circle cx="64" cy="13" r="6" fill="#28c840"/>
 
-  <!-- Title -->
-  <text x="350" y="17" text-anchor="middle" font-family="Fira Code, Menlo, monospace" font-size="13" fill="#8b949e">kuzensky@github: ~$ ./boot.sh</text>
+  <text x="350" y="17" text-anchor="middle" font-family="Fira Code, Menlo, monospace" font-size="12.5" fill="#8b949e">kuzensky@github: ~$ ./boot.sh</text>
 
-  <!-- Content area -->
   <rect x="1" y="27" width="698" height="192" fill="#0d1117"/>
 
-  <g font-family="Fira Code, Menlo, monospace" font-size="15">
-    <text x="30" y="60" opacity="0">
-      <tspan fill="#3fb950">kuzensky@github</tspan><tspan fill="#8b949e">:~$ npm install christian</tspan>
-      <animate attributeName="opacity" values="0;1;1" keyTimes="0;0;1" calcMode="discrete" dur="9s" repeatCount="indefinite"/>
-    </text>
+  <g font-family="Fira Code, Menlo, monospace" font-size="13" fill="#c9d1d9">
+    <text x="28" y="60" fill="#3fb950">kuzensky@github</text>
+    <text x="170" y="60" fill="#8b949e">:~$</text>
+    <text x="206" y="60" fill="#8b949e">npm install christian</text>
+    <rect x="186" y="48" width="10" height="16" fill="#c9d1d9">
+      <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+    </rect>
 
-    <text x="30" y="88" fill="#58a6ff" opacity="0">booting christian.exe...
+    <text x="28" y="88" fill="#58a6ff" opacity="0">booting christian.exe...
       <animate attributeName="opacity" values="0;1;1" keyTimes="0;0.1333;1" calcMode="discrete" dur="9s" repeatCount="indefinite"/>
     </text>
 
-    <text x="30" y="116" fill="#58a6ff" opacity="0">loading kabi.apk @ pocket devs...
+    <text x="28" y="112" fill="#58a6ff" opacity="0">loading kabi.apk @ pocket devs...
       <animate attributeName="opacity" values="0;1;1" keyTimes="0;0.2667;1" calcMode="discrete" dur="9s" repeatCount="indefinite"/>
     </text>
 
-    <text x="30" y="144" fill="#58a6ff" opacity="0">spinning up theoraux studio...
+    <text x="28" y="136" fill="#58a6ff" opacity="0">spinning up theoraux studio...
       <animate attributeName="opacity" values="0;1;1" keyTimes="0;0.4;1" calcMode="discrete" dur="9s" repeatCount="indefinite"/>
     </text>
 
-    <text x="30" y="172" fill="#58a6ff" opacity="0">compiling ideas since batstate-u...
+    <text x="28" y="160" fill="#58a6ff" opacity="0">compiling ideas since batstate-u...
       <animate attributeName="opacity" values="0;1;1" keyTimes="0;0.5333;1" calcMode="discrete" dur="9s" repeatCount="indefinite"/>
     </text>
 
-    <text x="30" y="200" fill="#f0f6fc" opacity="0">&gt; status: probably debugging_
+    <text x="28" y="184" fill="#f0f6fc" opacity="0">&gt; status: probably debugging_
       <animate attributeName="opacity" values="0;1;1" keyTimes="0;0.6667;1" calcMode="discrete" dur="9s" repeatCount="indefinite"/>
     </text>
   </g>

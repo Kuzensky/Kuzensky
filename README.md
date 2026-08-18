@@ -29,11 +29,7 @@
 
 <!-- ============ CONNECT ============ -->
 <p align="center">
-  <img src="assets/connect-header.svg" alt="connect" width="1000" /><br />
-  <a href="https://github.com/Kuzensky"><img src="assets/connect-github.svg" width="1000" /></a><br />
-  <a href="https://www.linkedin.com/in/christian-nayre/"><img src="assets/connect-linkedin.svg" width="1000" /></a><br />
-  <a href="https://christian-nayre.vercel.app/"><img src="assets/connect-portfolio.svg" width="1000" /></a><br />
-  <a href="mailto:cbnayre04@gmail.com"><img src="assets/connect-email.svg" width="1000" /></a>
+  <img src="assets/connect-terminal.svg" alt="terminal links" width="1200" />
 </p>
 
 ---

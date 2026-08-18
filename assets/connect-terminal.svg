@@ -1,0 +1,32 @@
+<svg width="1500" height="740" viewBox="0 0 1500 740" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .mono { font-family: "SFMono-Regular", "Consolas", "Liberation Mono", "Menlo", monospace; }
+    </style>
+  </defs>
+
+  <rect x="0" y="0" width="1500" height="740" fill="#0d1117"/>
+  <rect x="28" y="28" width="1444" height="684" rx="20" fill="#0d1117" stroke="#30363d" stroke-width="1.25"/>
+  <line x1="84" y1="40" x2="84" y2="690" stroke="#30363d" stroke-width="2" opacity="0.8"/>
+
+  <g class="mono">
+    <text x="96" y="105" font-size="26" fill="#7ee787">kuzensky@github</text>
+    <text x="418" y="105" font-size="26" fill="#8b949e">:~$</text>
+    <text x="482" y="105" font-size="26" fill="#8b949e">./links.sh</text>
+    <rect x="456" y="87" width="12" height="24" fill="#c9d1d9">
+      <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+    </rect>
+
+    <text x="118" y="210" font-size="38" font-weight="700" fill="#2ea043">GitHub</text>
+    <text x="520" y="210" font-size="36" fill="#c9d1d9">github.com/Kuzensky</text>
+
+    <text x="118" y="330" font-size="38" font-weight="700" fill="#1f6feb">LinkedIn</text>
+    <text x="520" y="330" font-size="36" fill="#c9d1d9">linkedin.com/in/christian-nayre</text>
+
+    <text x="118" y="450" font-size="38" font-weight="700" fill="#00c7d9">Portfolio</text>
+    <text x="520" y="450" font-size="36" fill="#c9d1d9">christian-nayre.vercel.app</text>
+
+    <text x="118" y="570" font-size="38" font-weight="700" fill="#ff4d4f">Email</text>
+    <text x="520" y="570" font-size="36" fill="#c9d1d9">cbnayre04@gmail.com</text>
+  </g>
+</svg>

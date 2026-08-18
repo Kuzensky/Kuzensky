@@ -2,18 +2,16 @@
   <path d="M0,14 a14,14 0 0 1 14,-14 h672 a14,14 0 0 1 14,14 v56 h-700 z" fill="#0d1117"/>
   <path d="M0.75,70 v-56 a13.25,13.25 0 0 1 13.25,-13.25 h672 a13.25,13.25 0 0 1 13.25,13.25 v56" fill="none" stroke="#30363d" stroke-width="1.5"/>
 
-  <!-- Top chrome bar -->
   <path d="M0,14 a14,14 0 0 1 14,-14 h672 a14,14 0 0 1 14,14 v12 h-700 z" fill="#161b22"/>
-
-  <!-- Traffic lights -->
   <circle cx="24" cy="13" r="6" fill="#ff5f57"/>
   <circle cx="44" cy="13" r="6" fill="#febc2e"/>
   <circle cx="64" cy="13" r="6" fill="#28c840"/>
 
-  <!-- Title -->
-  <text x="350" y="17" text-anchor="middle" font-family="Fira Code, Menlo, monospace" font-size="13" fill="#8b949e">kuzensky@github: ~$ ./links.sh</text>
+  <text x="350" y="17" text-anchor="middle" font-family="Fira Code, Menlo, monospace" font-size="12.5" fill="#8b949e">kuzensky@github: ~$ ./links.sh</text>
 
-  <!-- Prompt -->
-  <text x="30" y="53" font-family="Fira Code, Menlo, monospace" font-size="14" fill="#3fb950">kuzensky@github</text>
-  <text x="176" y="53" font-family="Fira Code, Menlo, monospace" font-size="14" fill="#8b949e">:~$ ./links.sh</text>
+  <text x="30" y="53" font-family="Fira Code, Menlo, monospace" font-size="13" fill="#3fb950">kuzensky@github</text>
+  <text x="170" y="53" font-family="Fira Code, Menlo, monospace" font-size="13" fill="#8b949e">:~$ ./links.sh</text>
+  <rect x="158" y="44" width="9" height="14" fill="#c9d1d9">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
 </svg>
