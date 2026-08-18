@@ -15,16 +15,7 @@
 
 <!-- ============ WHOAMI ============ -->
 <p align="center">
-  <details name="whoami-color" open>
-    <summary>🎨 teal</summary>
-    <br />
-    <a href="#"><img src="https://raw.githubusercontent.com/Kuzensky/Kuzensky/output/whoami.svg" alt="whoami" width="700" /></a>
-  </details>
-  <details name="whoami-color">
-    <summary>🎨 amber</summary>
-    <br />
-    <a href="#"><img src="https://raw.githubusercontent.com/Kuzensky/Kuzensky/output/whoami-alt.svg" alt="whoami alt colorway" width="700" /></a>
-  </details>
+  <a href="#"><img src="https://raw.githubusercontent.com/Kuzensky/Kuzensky/output/whoami.svg" alt="whoami" width="700" /></a>
 </p>
 
 ---

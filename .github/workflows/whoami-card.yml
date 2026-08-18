@@ -56,6 +56,7 @@ jobs:
             git rm -rf . >/dev/null 2>&1 || true
             cd -
           fi
+          rm -f /tmp/whoami-output/whoami-alt.svg
           cp -f dist/* /tmp/whoami-output/
           cd /tmp/whoami-output
           git add .

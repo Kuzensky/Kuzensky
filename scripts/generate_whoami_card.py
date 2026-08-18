@@ -1,9 +1,5 @@
 #!/usr/bin/env python3
-"""Fetch live GitHub stats for Kuzensky and render the neofetch-style whoami card.
-
-Outputs two color variants (default + alt accent) so the README's
-<details> "switch text color" toggle has something to reveal.
-"""
+"""Fetch live GitHub stats for Kuzensky and render the neofetch-style whoami card."""
 
 import os
 import sys
@@ -18,8 +14,7 @@ GRAPHQL_API = "https://api.github.com/graphql"
 
 ROLE = "Full-Stack Dev (mostly caffeine)"
 
-ACCENT_DEFAULT = "#5eead4"  # teal/mint, matches the reference screenshot
-ACCENT_ALT = "#fbbf24"  # amber
+ACCENT = "#3fb950"  # github green, matches the prompt color used elsewhere in the profile
 
 TEMPLATE_PATH = Path(__file__).parent / "whoami_card_template.svg"
 
@@ -134,10 +129,9 @@ def main() -> None:
 
     template = Template(TEMPLATE_PATH.read_text())
 
-    (out_dir / "whoami.svg").write_text(render(template, ACCENT_DEFAULT, stats))
-    (out_dir / "whoami-alt.svg").write_text(render(template, ACCENT_ALT, stats))
+    (out_dir / "whoami.svg").write_text(render(template, ACCENT, stats))
 
-    print(f"Wrote whoami.svg and whoami-alt.svg to {out_dir}")
+    print(f"Wrote whoami.svg to {out_dir}")
 
 
 if __name__ == "__main__":
