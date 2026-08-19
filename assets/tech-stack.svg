@@ -112,7 +112,7 @@
     <text x="395" y="309" font-family="Fira Code, Menlo, monospace" font-size="10" fill="#a684f2">SQLite</text>
     <text x="510" y="309" font-family="Fira Code, Menlo, monospace" font-size="10" fill="#484f58">|</text>
 
-    <text x="30" y="326" font-family="Fira Code, Menlo, monospace" font-size="10" fill="#30363d" textLength="640" lengthAdjust="spacingAndGlyphs">________________________________________________________________________________</text>
+    <text x="30" y="326" font-family="Fira Code, Menlo, monospace" font-size="10" fill="#30363d" textLength="640" lengthAdjust="spacingAndGlyphs">------------------------------------------------------------------------</text>
     <text x="140" y="326" font-family="Fira Code, Menlo, monospace" font-size="10" fill="#30363d">+</text>
     <text x="290" y="326" font-family="Fira Code, Menlo, monospace" font-size="10" fill="#30363d">+</text>
     <text x="380" y="326" font-family="Fira Code, Menlo, monospace" font-size="10" fill="#30363d">+</text>
