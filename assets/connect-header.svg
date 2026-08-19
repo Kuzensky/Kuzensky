@@ -10,9 +10,7 @@
 
   <text x="30" y="49" font-family="Fira Code, Menlo, monospace" font-size="11" fill="#3fb950">kuzensky@github</text>
   <text x="170" y="49" font-family="Fira Code, Menlo, monospace" font-size="11" fill="#8b949e">:~$ ./links.sh</text>
-  <rect x="158" y="40" width="9" height="14" fill="#c9d1d9">
-    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
-  </rect>
+  <rect x="158" y="40" width="9" height="14" fill="#c9d1d9"/>
 
   <path d="M0.5,66 v-52 a13.5,13.5 0 0 1 13.5,-13.5 h672 a13.5,13.5 0 0 1 13.5,13.5 v52" fill="none" stroke="#30363d" stroke-width="1"/>
 </svg>
