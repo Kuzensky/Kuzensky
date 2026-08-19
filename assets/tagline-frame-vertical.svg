@@ -15,39 +15,59 @@
     <text x="24" y="96" fill="#8b949e">:~$ npm install christian</text>
 
     <text x="24" y="136" fill="#58a6ff" opacity="0">booting christian.exe...
-      <animate attributeName="opacity" values="0;1;1" keyTimes="0;0.0857;1" calcMode="discrete" dur="14s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;1" keyTimes="0;0.06;1" calcMode="discrete" dur="20s" repeatCount="indefinite"/>
     </text>
 
     <text x="24" y="172" fill="#58a6ff" opacity="0">loading kabi.apk @ pocket devs...
-      <animate attributeName="opacity" values="0;1;1" keyTimes="0;0.1714;1" calcMode="discrete" dur="14s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;1" keyTimes="0;0.12;1" calcMode="discrete" dur="20s" repeatCount="indefinite"/>
     </text>
 
     <text x="24" y="208" fill="#58a6ff" opacity="0">spinning up theoraux studio...
-      <animate attributeName="opacity" values="0;1;1" keyTimes="0;0.2571;1" calcMode="discrete" dur="14s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;1" keyTimes="0;0.18;1" calcMode="discrete" dur="20s" repeatCount="indefinite"/>
     </text>
 
     <text x="24" y="244" fill="#58a6ff" opacity="0">compiling ideas since batstate-u...
-      <animate attributeName="opacity" values="0;1;1" keyTimes="0;0.3429;1" calcMode="discrete" dur="14s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;1" keyTimes="0;0.24;1" calcMode="discrete" dur="20s" repeatCount="indefinite"/>
     </text>
 
     <text x="24" y="280" fill="#f0f6fc" opacity="0">&gt; mood: shipping fast, breaking things
-      <animate attributeName="opacity" values="0;1;1" keyTimes="0;0.4286;1" calcMode="discrete" dur="14s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;1" keyTimes="0;0.30;1" calcMode="discrete" dur="20s" repeatCount="indefinite"/>
     </text>
 
     <text x="24" y="316" fill="#f0f6fc" opacity="0">&gt; caffeine_level: critical
-      <animate attributeName="opacity" values="0;1;1" keyTimes="0;0.5143;1" calcMode="discrete" dur="14s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;1" keyTimes="0;0.36;1" calcMode="discrete" dur="20s" repeatCount="indefinite"/>
     </text>
 
     <text x="24" y="352" fill="#f0f6fc" opacity="0">&gt; stack: ts, react, python, flask
-      <animate attributeName="opacity" values="0;1;1" keyTimes="0;0.6;1" calcMode="discrete" dur="14s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;1" keyTimes="0;0.42;1" calcMode="discrete" dur="20s" repeatCount="indefinite"/>
     </text>
 
     <text x="24" y="388" fill="#f0f6fc" opacity="0">&gt; uptime: since batstate-u
-      <animate attributeName="opacity" values="0;1;1" keyTimes="0;0.6857;1" calcMode="discrete" dur="14s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;1" keyTimes="0;0.48;1" calcMode="discrete" dur="20s" repeatCount="indefinite"/>
     </text>
 
     <text x="24" y="424" fill="#f0f6fc" opacity="0">&gt; status: probably debugging_
-      <animate attributeName="opacity" values="0;1;1" keyTimes="0;0.7714;1" calcMode="discrete" dur="14s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;1" keyTimes="0;0.54;1" calcMode="discrete" dur="20s" repeatCount="indefinite"/>
+    </text>
+
+    <text x="24" y="460" fill="#f0f6fc" opacity="0">&gt; last_commit: 3am, no regrets
+      <animate attributeName="opacity" values="0;1;1" keyTimes="0;0.60;1" calcMode="discrete" dur="20s" repeatCount="indefinite"/>
+    </text>
+
+    <text x="24" y="496" fill="#f0f6fc" opacity="0">&gt; todo.length: Infinity
+      <animate attributeName="opacity" values="0;1;1" keyTimes="0;0.66;1" calcMode="discrete" dur="20s" repeatCount="indefinite"/>
+    </text>
+
+    <text x="24" y="532" fill="#f0f6fc" opacity="0">&gt; bug_count: negotiable
+      <animate attributeName="opacity" values="0;1;1" keyTimes="0;0.72;1" calcMode="discrete" dur="20s" repeatCount="indefinite"/>
+    </text>
+
+    <text x="24" y="568" fill="#f0f6fc" opacity="0">&gt; currently: probably in kabi.apk
+      <animate attributeName="opacity" values="0;1;1" keyTimes="0;0.78;1" calcMode="discrete" dur="20s" repeatCount="indefinite"/>
+    </text>
+
+    <text x="24" y="604" fill="#58a6ff" opacity="0">&gt; easter_egg: you found this_
+      <animate attributeName="opacity" values="0;1;1" keyTimes="0;0.84;1" calcMode="discrete" dur="20s" repeatCount="indefinite"/>
     </text>
   </g>
 
