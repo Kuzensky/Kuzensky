@@ -1,74 +1,74 @@
-<svg width="700" height="468" viewBox="0 0 700 468" xmlns="http://www.w3.org/2000/svg">
+<svg width="700" height="461" viewBox="0 0 700 461" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <clipPath id="contentClip">
-      <rect x="1" y="41" width="698" height="427" rx="0"/>
+      <rect x="1" y="34" width="698" height="427" rx="0"/>
     </clipPath>
   </defs>
 
   <!-- Browser body -->
-  <rect x="0" y="0" width="700" height="468" rx="14" fill="#0d1117"/>
+  <rect x="0" y="0" width="700" height="461" rx="14" fill="#0d1117"/>
 
   <!-- Top chrome bar -->
-  <path d="M0,14 a14,14 0 0 1 14,-14 h672 a14,14 0 0 1 14,14 v15 h-700 z" fill="#161b22"/>
+  <path d="M0,14 a14,14 0 0 1 14,-14 h672 a14,14 0 0 1 14,14 v8 h-700 z" fill="#161b22"/>
 
   <!-- Traffic lights -->
-  <circle cx="24" cy="15" r="6" fill="#ff5f57"/>
-  <circle cx="44" cy="15" r="6" fill="#febc2e"/>
-  <circle cx="64" cy="15" r="6" fill="#28c840"/>
+  <circle cx="24" cy="11" r="6" fill="#ff5f57"/>
+  <circle cx="44" cy="11" r="6" fill="#febc2e"/>
+  <circle cx="64" cy="11" r="6" fill="#28c840"/>
 
   <!-- Title -->
-  <text x="350" y="18" text-anchor="middle" font-family="Fira Code, Menlo, monospace" font-size="15" fill="#8b949e">kuzensky@github:~$$ neofetch</text>
+  <text x="350" y="15" text-anchor="middle" font-family="Fira Code, Menlo, monospace" font-size="11" fill="#8b949e">kuzensky@github:~$$ neofetch</text>
 
   <!-- Content area -->
-  <rect x="1" y="41" width="698" height="427" fill="#0d1117"/>
+  <rect x="1" y="34" width="698" height="427" fill="#0d1117"/>
 
-  <g clip-path="url(#contentClip)" transform="translate(0,-22)">
+  <g clip-path="url(#contentClip)">
     <!-- ASCII box logo -->
-    <rect x="40" y="90" width="150" height="110" rx="4" fill="none" stroke="${ACCENT}" stroke-width="1.5"/>
-    <rect x="58" y="106" width="26" height="8" rx="2" fill="${ACCENT}"/>
-    <rect x="92" y="106" width="26" height="8" rx="2" fill="${ACCENT}"/>
-    <text x="58" y="148" font-family="Fira Code, Menlo, monospace" font-size="15" fill="${ACCENT}">&#183; github</text>
-    <text x="58" y="178" font-family="Fira Code, Menlo, monospace" font-size="15" fill="${ACCENT}">&gt; _</text>
-    <rect x="80" y="167" width="8" height="13" fill="${ACCENT}">
+    <rect x="40" y="61" width="150" height="110" rx="4" fill="none" stroke="${ACCENT}" stroke-width="1.5"/>
+    <rect x="58" y="77" width="26" height="8" rx="2" fill="${ACCENT}"/>
+    <rect x="92" y="77" width="26" height="8" rx="2" fill="${ACCENT}"/>
+    <text x="58" y="119" font-family="Fira Code, Menlo, monospace" font-size="11" fill="${ACCENT}">&#183; github</text>
+    <text x="58" y="149" font-family="Fira Code, Menlo, monospace" font-size="11" fill="${ACCENT}">&gt; _</text>
+    <rect x="80" y="138" width="8" height="13" fill="${ACCENT}">
       <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
     </rect>
 
     <!-- Stat block -->
-    <text x="230" y="105" font-family="Fira Code, Menlo, monospace" font-size="15" font-weight="700" fill="${ACCENT}">kuzensky@github</text>
-    <line x1="230" y1="115" x2="660" y2="115" stroke="#21262d" stroke-width="1"/>
+    <text x="230" y="76" font-family="Fira Code, Menlo, monospace" font-size="11" font-weight="700" fill="${ACCENT}">kuzensky@github</text>
+    <line x1="230" y1="86" x2="660" y2="86" stroke="#21262d" stroke-width="1"/>
 
-    <text x="230" y="150" font-family="Fira Code, Menlo, monospace" font-size="15" font-weight="700" fill="${ACCENT}">Name</text>
-    <text x="340" y="150" font-family="Fira Code, Menlo, monospace" font-size="15" fill="#f0f6fc">${NAME}</text>
+    <text x="230" y="121" font-family="Fira Code, Menlo, monospace" font-size="11" font-weight="700" fill="${ACCENT}">Name</text>
+    <text x="340" y="121" font-family="Fira Code, Menlo, monospace" font-size="11" fill="#f0f6fc">${NAME}</text>
 
-    <text x="230" y="180" font-family="Fira Code, Menlo, monospace" font-size="15" font-weight="700" fill="${ACCENT}">Role</text>
-    <text x="340" y="180" font-family="Fira Code, Menlo, monospace" font-size="15" fill="#f0f6fc">${ROLE}</text>
+    <text x="230" y="151" font-family="Fira Code, Menlo, monospace" font-size="11" font-weight="700" fill="${ACCENT}">Role</text>
+    <text x="340" y="151" font-family="Fira Code, Menlo, monospace" font-size="11" fill="#f0f6fc">${ROLE}</text>
 
-    <text x="230" y="210" font-family="Fira Code, Menlo, monospace" font-size="15" font-weight="700" fill="${ACCENT}">Stars</text>
-    <text x="340" y="210" font-family="Fira Code, Menlo, monospace" font-size="15" fill="#f0f6fc">${STARS}</text>
+    <text x="230" y="181" font-family="Fira Code, Menlo, monospace" font-size="11" font-weight="700" fill="${ACCENT}">Stars</text>
+    <text x="340" y="181" font-family="Fira Code, Menlo, monospace" font-size="11" fill="#f0f6fc">${STARS}</text>
 
-    <text x="230" y="240" font-family="Fira Code, Menlo, monospace" font-size="15" font-weight="700" fill="${ACCENT}">Repos</text>
-    <text x="340" y="240" font-family="Fira Code, Menlo, monospace" font-size="15" fill="#f0f6fc">${REPOS}</text>
+    <text x="230" y="211" font-family="Fira Code, Menlo, monospace" font-size="11" font-weight="700" fill="${ACCENT}">Repos</text>
+    <text x="340" y="211" font-family="Fira Code, Menlo, monospace" font-size="11" fill="#f0f6fc">${REPOS}</text>
 
-    <text x="230" y="270" font-family="Fira Code, Menlo, monospace" font-size="15" font-weight="700" fill="${ACCENT}">Followers</text>
-    <text x="340" y="270" font-family="Fira Code, Menlo, monospace" font-size="15" fill="#f0f6fc">${FOLLOWERS}</text>
+    <text x="230" y="241" font-family="Fira Code, Menlo, monospace" font-size="11" font-weight="700" fill="${ACCENT}">Followers</text>
+    <text x="340" y="241" font-family="Fira Code, Menlo, monospace" font-size="11" fill="#f0f6fc">${FOLLOWERS}</text>
 
-    <text x="230" y="300" font-family="Fira Code, Menlo, monospace" font-size="15" font-weight="700" fill="${ACCENT}">Top Lang</text>
-    <text x="340" y="300" font-family="Fira Code, Menlo, monospace" font-size="15" fill="#f0f6fc">${TOP_LANG}</text>
+    <text x="230" y="271" font-family="Fira Code, Menlo, monospace" font-size="11" font-weight="700" fill="${ACCENT}">Top Lang</text>
+    <text x="340" y="271" font-family="Fira Code, Menlo, monospace" font-size="11" fill="#f0f6fc">${TOP_LANG}</text>
 
-    <text x="230" y="330" font-family="Fira Code, Menlo, monospace" font-size="15" font-weight="700" fill="${ACCENT}">Activity</text>
-    <text x="340" y="330" font-family="Fira Code, Menlo, monospace" font-size="15" fill="#f0f6fc">${ACTIVITY}</text>
+    <text x="230" y="301" font-family="Fira Code, Menlo, monospace" font-size="11" font-weight="700" fill="${ACCENT}">Activity</text>
+    <text x="340" y="301" font-family="Fira Code, Menlo, monospace" font-size="11" fill="#f0f6fc">${ACTIVITY}</text>
 
-    <text x="230" y="360" font-family="Fira Code, Menlo, monospace" font-size="15" font-weight="700" fill="${ACCENT}">Views</text>
-    <text x="340" y="360" font-family="Fira Code, Menlo, monospace" font-size="15" fill="#f0f6fc">${VIEWS}</text>
+    <text x="230" y="331" font-family="Fira Code, Menlo, monospace" font-size="11" font-weight="700" fill="${ACCENT}">Views</text>
+    <text x="340" y="331" font-family="Fira Code, Menlo, monospace" font-size="11" fill="#f0f6fc">${VIEWS}</text>
 
     <!-- swatches -->
-    <rect x="230" y="405" width="24" height="24" rx="4" fill="${ACCENT}"/>
-    <rect x="264" y="405" width="24" height="24" rx="4" fill="#56d4dd"/>
-    <rect x="298" y="405" width="24" height="24" rx="4" fill="#5b8ef7"/>
-    <rect x="332" y="405" width="24" height="24" rx="4" fill="#a684f2"/>
-    <rect x="366" y="405" width="24" height="24" rx="4" fill="#ee7bb3"/>
-    <rect x="400" y="405" width="24" height="24" rx="4" fill="#3fb950"/>
+    <rect x="230" y="376" width="24" height="24" rx="4" fill="${ACCENT}"/>
+    <rect x="264" y="376" width="24" height="24" rx="4" fill="#56d4dd"/>
+    <rect x="298" y="376" width="24" height="24" rx="4" fill="#5b8ef7"/>
+    <rect x="332" y="376" width="24" height="24" rx="4" fill="#a684f2"/>
+    <rect x="366" y="376" width="24" height="24" rx="4" fill="#ee7bb3"/>
+    <rect x="400" y="376" width="24" height="24" rx="4" fill="#3fb950"/>
   </g>
 
-  <rect x="0.75" y="0.75" width="698.5" height="466.5" rx="13.5" fill="none" stroke="#30363d" stroke-width="1.5"/>
+  <rect x="0.5" y="0.5" width="699" height="460" rx="13.5" fill="none" stroke="#30363d" stroke-width="1"/>
 </svg>

@@ -1,75 +1,75 @@
-<svg width="420" height="656" viewBox="0 0 420 656" xmlns="http://www.w3.org/2000/svg">
-  <rect x="0" y="0" width="420" height="656" rx="14" fill="#0d1117"/>
+<svg width="420" height="649" viewBox="0 0 420 649" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0" y="0" width="420" height="649" rx="14" fill="#0d1117"/>
 
-  <path d="M0,14 a14,14 0 0 1 14,-14 h392 a14,14 0 0 1 14,14 v15 h-420 z" fill="#161b22"/>
-  <circle cx="24" cy="15" r="6" fill="#ff5f57"/>
-  <circle cx="44" cy="15" r="6" fill="#febc2e"/>
-  <circle cx="64" cy="15" r="6" fill="#28c840"/>
+  <path d="M0,14 a14,14 0 0 1 14,-14 h392 a14,14 0 0 1 14,14 v8 h-420 z" fill="#161b22"/>
+  <circle cx="24" cy="11" r="6" fill="#ff5f57"/>
+  <circle cx="44" cy="11" r="6" fill="#febc2e"/>
+  <circle cx="64" cy="11" r="6" fill="#28c840"/>
 
-  <text x="210" y="18" text-anchor="middle" font-family="Fira Code, Menlo, monospace" font-size="12" fill="#8b949e">kuzensky@github: ~$ ./boot.sh</text>
+  <text x="210" y="15" text-anchor="middle" font-family="Fira Code, Menlo, monospace" font-size="11" fill="#8b949e">kuzensky@github: ~$ ./boot.sh</text>
 
-  <rect x="1" y="41" width="418" height="614" fill="#0d1117"/>
+  <rect x="1" y="34" width="418" height="614" fill="#0d1117"/>
 
-  <g font-family="Fira Code, Menlo, monospace" font-size="15" fill="#c9d1d9">
-    <text x="24" y="76" fill="#3fb950">kuzensky@github</text>
-    <text x="24" y="96" fill="#8b949e">:~$ npm install christian</text>
+  <g font-family="Fira Code, Menlo, monospace" font-size="11" fill="#c9d1d9">
+    <text x="24" y="69" fill="#3fb950">kuzensky@github</text>
+    <text x="24" y="89" fill="#8b949e">:~$ npm install christian</text>
 
-    <text x="24" y="136" fill="#58a6ff" opacity="0">booting christian.exe...
+    <text x="24" y="129" fill="#58a6ff" opacity="0">booting christian.exe...
       <animate attributeName="opacity" values="0;1;1" keyTimes="0;0.06;1" calcMode="discrete" dur="20s" repeatCount="indefinite"/>
     </text>
 
-    <text x="24" y="172" fill="#58a6ff" opacity="0">loading kabi.apk @ pocket devs...
+    <text x="24" y="165" fill="#58a6ff" opacity="0">loading kabi.apk @ pocket devs...
       <animate attributeName="opacity" values="0;1;1" keyTimes="0;0.12;1" calcMode="discrete" dur="20s" repeatCount="indefinite"/>
     </text>
 
-    <text x="24" y="208" fill="#58a6ff" opacity="0">spinning up theoraux studio...
+    <text x="24" y="201" fill="#58a6ff" opacity="0">spinning up theoraux studio...
       <animate attributeName="opacity" values="0;1;1" keyTimes="0;0.18;1" calcMode="discrete" dur="20s" repeatCount="indefinite"/>
     </text>
 
-    <text x="24" y="244" fill="#58a6ff" opacity="0">compiling ideas since batstate-u...
+    <text x="24" y="237" fill="#58a6ff" opacity="0">compiling ideas since batstate-u...
       <animate attributeName="opacity" values="0;1;1" keyTimes="0;0.24;1" calcMode="discrete" dur="20s" repeatCount="indefinite"/>
     </text>
 
-    <text x="24" y="280" fill="#f0f6fc" opacity="0">&gt; mood: shipping fast, breaking things
+    <text x="24" y="273" fill="#f0f6fc" opacity="0">&gt; mood: shipping fast, breaking things
       <animate attributeName="opacity" values="0;1;1" keyTimes="0;0.30;1" calcMode="discrete" dur="20s" repeatCount="indefinite"/>
     </text>
 
-    <text x="24" y="316" fill="#f0f6fc" opacity="0">&gt; caffeine_level: critical
+    <text x="24" y="309" fill="#f0f6fc" opacity="0">&gt; caffeine_level: critical
       <animate attributeName="opacity" values="0;1;1" keyTimes="0;0.36;1" calcMode="discrete" dur="20s" repeatCount="indefinite"/>
     </text>
 
-    <text x="24" y="352" fill="#f0f6fc" opacity="0">&gt; stack: ts, react, python, flask
+    <text x="24" y="345" fill="#f0f6fc" opacity="0">&gt; stack: ts, react, python, flask
       <animate attributeName="opacity" values="0;1;1" keyTimes="0;0.42;1" calcMode="discrete" dur="20s" repeatCount="indefinite"/>
     </text>
 
-    <text x="24" y="388" fill="#f0f6fc" opacity="0">&gt; uptime: since batstate-u
+    <text x="24" y="381" fill="#f0f6fc" opacity="0">&gt; uptime: since batstate-u
       <animate attributeName="opacity" values="0;1;1" keyTimes="0;0.48;1" calcMode="discrete" dur="20s" repeatCount="indefinite"/>
     </text>
 
-    <text x="24" y="424" fill="#f0f6fc" opacity="0">&gt; status: probably debugging_
+    <text x="24" y="417" fill="#f0f6fc" opacity="0">&gt; status: probably debugging_
       <animate attributeName="opacity" values="0;1;1" keyTimes="0;0.54;1" calcMode="discrete" dur="20s" repeatCount="indefinite"/>
     </text>
 
-    <text x="24" y="460" fill="#f0f6fc" opacity="0">&gt; last_commit: 3am, no regrets
+    <text x="24" y="453" fill="#f0f6fc" opacity="0">&gt; last_commit: 3am, no regrets
       <animate attributeName="opacity" values="0;1;1" keyTimes="0;0.60;1" calcMode="discrete" dur="20s" repeatCount="indefinite"/>
     </text>
 
-    <text x="24" y="496" fill="#f0f6fc" opacity="0">&gt; todo.length: Infinity
+    <text x="24" y="489" fill="#f0f6fc" opacity="0">&gt; todo.length: Infinity
       <animate attributeName="opacity" values="0;1;1" keyTimes="0;0.66;1" calcMode="discrete" dur="20s" repeatCount="indefinite"/>
     </text>
 
-    <text x="24" y="532" fill="#f0f6fc" opacity="0">&gt; bug_count: negotiable
+    <text x="24" y="525" fill="#f0f6fc" opacity="0">&gt; bug_count: negotiable
       <animate attributeName="opacity" values="0;1;1" keyTimes="0;0.72;1" calcMode="discrete" dur="20s" repeatCount="indefinite"/>
     </text>
 
-    <text x="24" y="568" fill="#f0f6fc" opacity="0">&gt; currently: probably in kabi.apk
+    <text x="24" y="561" fill="#f0f6fc" opacity="0">&gt; currently: probably in kabi.apk
       <animate attributeName="opacity" values="0;1;1" keyTimes="0;0.78;1" calcMode="discrete" dur="20s" repeatCount="indefinite"/>
     </text>
 
-    <text x="24" y="604" fill="#58a6ff" opacity="0">&gt; easter_egg: you found this_
+    <text x="24" y="597" fill="#58a6ff" opacity="0">&gt; easter_egg: you found this_
       <animate attributeName="opacity" values="0;1;1" keyTimes="0;0.84;1" calcMode="discrete" dur="20s" repeatCount="indefinite"/>
     </text>
   </g>
 
-  <rect x="0.75" y="0.75" width="418.5" height="654.5" rx="13.5" fill="none" stroke="#30363d" stroke-width="1.5"/>
+  <rect x="0.5" y="0.5" width="419" height="648" rx="13.5" fill="none" stroke="#30363d" stroke-width="1"/>
 </svg>
