@@ -1,7 +1,7 @@
-<svg width="700" height="50" viewBox="0 0 700 50" xmlns="http://www.w3.org/2000/svg">
-  <rect x="0" y="0" width="700" height="50" fill="#0d1117"/>
-  <line x1="0.75" y1="0" x2="0.75" y2="50" stroke="#30363d" stroke-width="1.5"/>
-  <line x1="699.25" y1="0" x2="699.25" y2="50" stroke="#30363d" stroke-width="1.5"/>
-  <text x="30" y="32" font-family="Fira Code, Menlo, monospace" font-size="11" font-weight="700" fill="#0A66C2">LinkedIn</text>
-  <text x="180" y="32" font-family="Fira Code, Menlo, monospace" font-size="11" fill="#8b949e">linkedin.com/in/christian-nayre</text>
+<svg width="700" height="38" viewBox="0 0 700 38" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0" y="0" width="700" height="38" fill="#0d1117"/>
+  <line x1="0.75" y1="0" x2="0.75" y2="38" stroke="#30363d" stroke-width="1.5"/>
+  <line x1="699.25" y1="0" x2="699.25" y2="38" stroke="#30363d" stroke-width="1.5"/>
+  <text x="30" y="24" font-family="Fira Code, Menlo, monospace" font-size="11" font-weight="700" fill="#0A66C2">LinkedIn</text>
+  <text x="180" y="24" font-family="Fira Code, Menlo, monospace" font-size="11" fill="#8b949e">linkedin.com/in/christian-nayre</text>
 </svg>
