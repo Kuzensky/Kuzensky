@@ -6,7 +6,7 @@
   </defs>
 
   <!-- Browser body -->
-  <rect x="0" y="0" width="700" height="468" rx="14" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+  <rect x="0" y="0" width="700" height="468" rx="14" fill="#0d1117"/>
 
   <!-- Top chrome bar -->
   <path d="M0,14 a14,14 0 0 1 14,-14 h672 a14,14 0 0 1 14,14 v15 h-700 z" fill="#161b22"/>
@@ -56,10 +56,10 @@
     <text x="340" y="300" font-family="Fira Code, Menlo, monospace" font-size="15" fill="#f0f6fc">Blade</text>
 
     <text x="230" y="330" font-family="Fira Code, Menlo, monospace" font-size="15" font-weight="700" fill="#3fb950">Activity</text>
-    <text x="340" y="330" font-family="Fira Code, Menlo, monospace" font-size="15" fill="#f0f6fc">403 contributions</text>
+    <text x="340" y="330" font-family="Fira Code, Menlo, monospace" font-size="15" fill="#f0f6fc">425 contributions</text>
 
     <text x="230" y="360" font-family="Fira Code, Menlo, monospace" font-size="15" font-weight="700" fill="#3fb950">Views</text>
-    <text x="340" y="360" font-family="Fira Code, Menlo, monospace" font-size="15" fill="#f0f6fc">n/a</text>
+    <text x="340" y="360" font-family="Fira Code, Menlo, monospace" font-size="15" fill="#f0f6fc">1,226</text>
 
     <!-- swatches -->
     <rect x="230" y="405" width="24" height="24" rx="4" fill="#3fb950"/>
@@ -69,4 +69,6 @@
     <rect x="366" y="405" width="24" height="24" rx="4" fill="#ee7bb3"/>
     <rect x="400" y="405" width="24" height="24" rx="4" fill="#3fb950"/>
   </g>
+
+  <rect x="0.75" y="0.75" width="698.5" height="466.5" rx="13.5" fill="none" stroke="#30363d" stroke-width="1.5"/>
 </svg>
