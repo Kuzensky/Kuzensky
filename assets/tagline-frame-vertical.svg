@@ -1,5 +1,5 @@
 <svg width="420" height="656" viewBox="0 0 420 656" xmlns="http://www.w3.org/2000/svg">
-  <rect x="0" y="0" width="420" height="656" rx="14" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+  <rect x="0" y="0" width="420" height="656" rx="14" fill="#0d1117"/>
 
   <path d="M0,14 a14,14 0 0 1 14,-14 h392 a14,14 0 0 1 14,14 v15 h-420 z" fill="#161b22"/>
   <circle cx="24" cy="15" r="6" fill="#ff5f57"/>
@@ -50,4 +50,6 @@
       <animate attributeName="opacity" values="0;1;1" keyTimes="0;0.7714;1" calcMode="discrete" dur="14s" repeatCount="indefinite"/>
     </text>
   </g>
+
+  <rect x="0.75" y="0.75" width="418.5" height="654.5" rx="13.5" fill="none" stroke="#30363d" stroke-width="1.5"/>
 </svg>

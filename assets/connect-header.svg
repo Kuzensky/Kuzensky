@@ -1,6 +1,5 @@
 <svg width="700" height="70" viewBox="0 0 700 70" xmlns="http://www.w3.org/2000/svg">
   <path d="M0,14 a14,14 0 0 1 14,-14 h672 a14,14 0 0 1 14,14 v56 h-700 z" fill="#0d1117"/>
-  <path d="M0.75,70 v-56 a13.25,13.25 0 0 1 13.25,-13.25 h672 a13.25,13.25 0 0 1 13.25,13.25 v56" fill="none" stroke="#30363d" stroke-width="1.5"/>
 
   <path d="M0,14 a14,14 0 0 1 14,-14 h672 a14,14 0 0 1 14,14 v12 h-700 z" fill="#161b22"/>
   <circle cx="24" cy="13" r="6" fill="#ff5f57"/>
@@ -14,4 +13,6 @@
   <rect x="158" y="44" width="9" height="14" fill="#c9d1d9">
     <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
   </rect>
+
+  <path d="M0.75,70 v-56 a13.25,13.25 0 0 1 13.25,-13.25 h672 a13.25,13.25 0 0 1 13.25,13.25 v56" fill="none" stroke="#30363d" stroke-width="1.5"/>
 </svg>
